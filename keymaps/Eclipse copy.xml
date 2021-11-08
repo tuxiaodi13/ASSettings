@@ -1,0 +1,28 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="CloseAllToTheLeft">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="CloseAllToTheRight">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="Unwrap" />
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
