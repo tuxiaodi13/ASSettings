@@ -3,10 +3,6 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="alt 9" />
-    <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
   <action id="CloseAllToTheLeft">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
