@@ -20,10 +20,10 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="shift e" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="GotoPreviousError">
-    <keyboard-shortcut first-keystroke="shift w" />
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
