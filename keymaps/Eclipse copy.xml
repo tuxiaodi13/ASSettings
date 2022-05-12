@@ -19,6 +19,12 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift e" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift w" />
+  </action>
   <action id="Unwrap" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
