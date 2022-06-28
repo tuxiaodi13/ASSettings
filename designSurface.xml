@@ -50,10 +50,13 @@
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_main_someip.xml" value="0.13405797101449277" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_nmea_test.xml" value="0.13405797101449277" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_t_box_test.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/activity_webview.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_frame_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_tap_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_text_color.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_horzontal_progress.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_scroll_bar.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_scroll_track_bar.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_setting_item.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/btn_background.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/btn_setting_select.xml" value="0.1" />
@@ -67,7 +70,9 @@
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/dialog_select.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/fragment_album.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/fragment_capture.xml" value="0.13768115942028986" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/fragment_picture.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/fragment_priview_video.xml" value="0.13768115942028986" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/fragment_record_video.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/item_album.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/item_left_feature.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/gwm-v61-bean-app/SVVDS/SVCarInfo/src/main/res/layout/activity_main.xml" value="0.1" />
