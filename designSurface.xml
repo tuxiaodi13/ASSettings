@@ -44,6 +44,8 @@
         <entry key="..\:/AndroidProject/architecture-samples/app/src/main/res/layout/tasks_frag.xml" value="0.15670289855072464" />
         <entry key="..\:/AndroidProject/g6sa-gw-app/Auth/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/activity_battery.xml" value="0.8" />
+        <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/top.xml" value="0.1921875" />
+        <entry key="..\:/AndroidProject/g6sa-gw-bean/SVFOTAUI/src/main/res/drawable/btn_blue_gray_selector.xml" value="0.11296296296296296" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_dvr_internal_test.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_dvr_test2.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_json.xml" value="0.13405797101449277" />
@@ -100,6 +102,7 @@
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/dialog_dynamic_common_edit.xml" value="0.1644021739130435" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/drawable/hvac_my_seekbar_style.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/drawable/hvac_shape_progressbar_progress.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/layout/layout_hvac_tod_panel.xml" value="0.1644021739130435" />
         <entry key="..\:/AndroidProject/gwm-v61-bean-app/SVVDS/SVCarInfo/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidProject/gwm-v61-bean-app/SVVDS/SVCarLan/SVCarLan/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/gwm-v61-bean-app/SVVDS/SVCarLan/SVCarLan/src/main/res/layout/activity_t_box_test.xml" value="0.1" />
