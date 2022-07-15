@@ -79,7 +79,9 @@
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/item_album.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/item_left_feature.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/layout/layout_setting.xml" value="0.1381340579710145" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/selector_btn_auth.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/selector_check_switch.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/selector_color_auth_btn.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/selector_dialog_delete_btn_left.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/selector_dialog_delete_btn_right.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/drawable/shape_switch_close.xml" value="0.1" />
