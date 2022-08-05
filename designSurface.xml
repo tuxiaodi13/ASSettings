@@ -45,7 +45,7 @@
         <entry key="..\:/AndroidProject/g6sa-gw-app/Auth/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/FDBusServer/src/main/res/layout/activity_main.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/activity_battery.xml" value="0.8" />
-        <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/activity_ethernet.xml" value="0.13179347826086957" />
+        <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/activity_ethernet.xml" value="0.17395833333333333" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/SVEngMode/src/main/res/layout/top.xml" value="0.1921875" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/SVFOTAUI/src/main/res/drawable/btn_blue_gray_selector.xml" value="0.11296296296296296" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_dvr_internal_test.xml" value="0.22552083333333334" />
@@ -123,6 +123,7 @@
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_ethernet.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_fdbus_test.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_offline_config.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_outer_net.xml" value="0.1" />
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_rvc.xml" value="0.1" />
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/activity_sound.xml" value="0.1" />
         <entry key="..\:/AndroidProject/v61/gwm-v61-bean-app/SVEngModeCustom/src/main/res/layout/dialog_config_detail.xml" value="0.1" />
