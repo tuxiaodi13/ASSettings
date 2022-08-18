@@ -57,7 +57,11 @@
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_nmea_test.xml" value="0.13405797101449277" />
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_t_box_test.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/Auth/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/activity_login.xml" value="0.12409420289855072" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/activity_webview.xml" value="0.13768115942028986" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/common_back_item.xml" value="0.12409420289855072" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/container_account_login.xml" value="0.12409420289855072" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/container_qr_login.xml" value="0.12409420289855072" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_frame_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_tap_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_text_color.xml" value="0.1" />
