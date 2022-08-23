@@ -64,6 +64,8 @@
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/common_back_item.xml" value="0.12409420289855072" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/container_account_login.xml" value="0.12409420289855072" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/container_qr_login.xml" value="0.12409420289855072" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVCarSetting/src/main/res/layout/activity_car_setting.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVCarSetting/src/main/res/layout/fragment_automatic_lock.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_frame_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_tap_h.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVDVR/src/main/res/drawable/bg_album_text_color.xml" value="0.1" />
@@ -109,14 +111,20 @@
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/layout/layout_widgets_theme3.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLauncher/src/main/res/layout/widget_error.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/drawable/bg_checkbox.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_auth_app_page.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_auth_app_page1.xml" value="0.15942028985507245" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_auth_app_page2.xml" value="0.152" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_auth_confirm_page.xml" value="0.12409420289855072" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_auth_global_page.xml" value="0.12409420289855072" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVLib/src/main/res/layout/dialog_privacy_agreement.xml" value="0.1598731884057971" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/drawable/dialog_button_d.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/drawable/dialog_selector_button.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/dialog_common.xml" value="0.10923309788092836" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/dialog_common_edit.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/dialog_dynamic_common_edit.xml" value="0.1644021739130435" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVSettings/src/main/res/layout/layout_apple.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/SVWeatherService/src/main/res/layout/weather_widget_view.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/drawable/hvac_my_seekbar_style.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/drawable/hvac_shape_progressbar_progress.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/SystemUI/src/main/res/layout/layout_hvac_tod_panel.xml" value="0.1644021739130435" />
