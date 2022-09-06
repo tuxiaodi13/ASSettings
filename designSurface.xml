@@ -61,7 +61,17 @@
         <entry key="..\:/AndroidProject/g6sa-gw-bean/app/src/main/res/layout/activity_t_box_test.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/Auth/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/bg_checkbox.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/idrive_common_btn_bkg.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/idrive_register_btn_bkg.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/idriver_btn_code_n.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/idriver_btn_code_p.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_button_bg_login.xml" value="0.12222222222222222" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_button_bg_register.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_button_homepage.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_pop_button_bg_sex.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_pw_hidden_selector.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/sv_reg_btn.xml" value="0.20925925925925926" />
+        <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/drawable/txt_color.xml" value="0.1" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/activity_webview.xml" value="0.13768115942028986" />
         <entry key="..\:/AndroidProject/g6sa-odc-v2l/DsvPersonalCenter/src/main/res/layout/common_back_item.xml" value="0.12409420289855072" />
