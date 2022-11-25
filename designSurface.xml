@@ -162,7 +162,14 @@
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/activity_screen_test.xml" value="0.22552083333333334" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/activity_usb.xml" value="0.1890625" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/item_media_operation_usb.xml" value="0.24010416666666667" />
-        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_btn_click_dark_blue.xml" value="0.20925925925925926" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_btn_click_dark_blue.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_btn_dark.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_btn_line_press.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_check_white_black.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_line.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_main_btn.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/frame_bg.xml" value="0.10648148148148148" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/line_h.xml" value="0.10648148148148148" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_adb.xml" value="0.11911231884057971" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_usb_test.xml" value="0.12001811594202899" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_wifi.xml" value="0.12001811594202899" />
