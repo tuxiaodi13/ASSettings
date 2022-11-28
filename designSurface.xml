@@ -165,6 +165,7 @@
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/activity_usb.xml" value="0.1890625" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/activity_usb_auth.xml" value="0.24010416666666667" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/activity_usb_device.xml" value="0.24010416666666667" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/device_list.xml" value="0.20572916666666666" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/item_cmd_btn.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngMode/src/main/res/layout/item_media_operation_usb.xml" value="0.24010416666666667" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/drawable/bg_btn_click_dark_blue.xml" value="0.2" />
@@ -180,6 +181,7 @@
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_usb_auth.xml" value="0.10923309788092836" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_usb_test.xml" value="0.12001811594202899" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/activity_wifi.xml" value="0.12001811594202899" />
+        <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/device_list.xml" value="0.10416666666666667" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/dialog_qr_code.xml" value="0.12001811594202899" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/item_app_info.xml" value="0.12001811594202899" />
         <entry key="..\:/AndroidProject/g9h-engmode/SVEngModeNew/SVLibEngMode/src/main/res/layout/item_cmd_btn.xml" value="0.10923309788092836" />
