@@ -1,13 +1,24 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="375" />
+    <option name="newTranslationDialogWidth" value="603" />
+    <option name="newTranslationDialogX" value="25" />
+    <option name="newTranslationDialogY" value="-1054" />
     <histories>
+      <item value="\brief Initializes the application. The init method must be called first after creating a vsomeip application and executes the following steps to initialize it: - Loading the configuration from a dynamic module - Loading the configuration from a .json file or - Loading the configuration from compiled data (not yet available) - Determining routing configuration and initialization of the routing itself - Installing signal handlers" />
+      <item value="\brief Returns the client identifier that was assigned to the application object. Each request sent by and each response sent to the application contain the client identifier as part of the request identifier within the SOMEIP message header. The client identifier can either be configured by the configured as part of the application node within a vsomeip configuration file or is automatically set to an unused client identifier by vsomeip. If the client identifier is automatically set, its high byte will always match the diagnosis address of the device. \return Client ID of application" />
+      <item value="rvi" />
+      <item value="re" />
+      <item value="h request sent by and eac" />
+      <item value="Each request sent by and e" />
+      <item value="se sent to the application contain the client identif" />
       <item value="Each request sent by and each response sent to the application contain the client identifier as part of the request identifier within the SOMEIP message" />
       <item value="Each request sent by and each response sent to the application contain the client identifier as part of the request identifier within the SOMEIP message header. The client identifier can either be configured by the configured as part of the application node within a vsomeip configuration file or is automatically set to an unused client identifier by vsomeip. If the client identifier is automatically set, its high byte will always match the diagnosis address of the device. \return Client ID of application" />
       <item value="subsequent" />
     </histories>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653273773326" />
+    <option name="lastTrimTime" value="1671594921101" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
