@@ -1,10 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Each request sent by and each response sent to the application contain the client identifier as part of the request identifier within the SOMEIP message" />
+      <item value="Each request sent by and each response sent to the application contain the client identifier as part of the request identifier within the SOMEIP message header. The client identifier can either be configured by the configured as part of the application node within a vsomeip configuration file or is automatically set to an unused client identifier by vsomeip. If the client identifier is automatically set, its high byte will always match the diagnosis address of the device. \return Client ID of application" />
       <item value="subsequent" />
     </histories>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1653273773326" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20160801000026096" />
+      </app-key>
+    </option>
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="3f4aa87832ca9d08" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
