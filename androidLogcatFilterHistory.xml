@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.vsomeiphelloworld tag:vsomeip" />
+    <option name="mostRecentlyUsed" value="package:com.example.vsomeiphelloworld" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.vsomeiphelloworld" />
         <option value="package:com.example.vsomeiphelloworld tag:vsomeip" />
         <option value="package:com.example.vsomeiphelloworld " />
         <option value="package:com.example.vsomeiphelloworld tag=:no-tag" />
-        <option value="package:com.example.vsomeiphelloworld" />
         <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient" />
         <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient tag" />
         <option value="package:com.example.vsomeiphelloworld ta" />
