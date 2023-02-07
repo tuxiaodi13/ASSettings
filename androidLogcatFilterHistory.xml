@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.example.vsomeiphelloworld" />
+        <option value="package:com.example.vsomeiphelloworld|&lt;no-tag&gt;" />
         <option value="package:mine " />
       </list>
     </option>
