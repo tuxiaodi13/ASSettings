@@ -1,10 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.vsomeiphelloworld" />
+    <option name="mostRecentlyUsed" value="package:com.example.vsomeiphelloworld 20467" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:com.example.vsomeiphelloworld 20467" />
+        <option value="package:com.example.vsomeiphelloworld 20462" />
         <option value="package:com.example.vsomeiphelloworld" />
+        <option value="package:com.example.vsomeiphelloworld " />
+        <option value="package:com.example.vsomeiphelloworld 18924" />
+        <option value="package:com.example.vsomeiphelloworld 18919" />
+        <option value="package:[15701]" />
+        <option value="package:[]]" />
+        <option value="package:mine " />
         <option value="package:" />
         <option value="1344" />
         <option value="13440-" />
@@ -12,14 +19,10 @@
         <option value="VSomeIP_STACK" />
         <option value="12591" />
         <option value="package:com.example.vsomeiphelloworld tag:vsomeip" />
-        <option value="package:com.example.vsomeiphelloworld " />
         <option value="package:com.example.vsomeiphelloworld tag=:no-tag" />
         <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient" />
         <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient tag" />
         <option value="package:com.example.vsomeiphelloworld ta" />
-        <option value="package:com.example.vsomeiphelloworld tag:hello_world_client|tag:" />
-        <option value="package:com.example.vsomeiphelloworld tag:hello_world_client" />
-        <option value="package:com.example.vsomeiphelloworld|&lt;no-tag&gt;" />
       </list>
     </option>
   </component>
