@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.vsomeiphelloworld 20467" />
+    <option name="mostRecentlyUsed" value="2190" />
     <option name="nonFavorites">
       <list>
+        <option value="2190" />
+        <option value="package:mine " />
+        <option value="FAILED_TRANSACTION" />
         <option value="package:com.example.vsomeiphelloworld 20467" />
         <option value="package:com.example.vsomeiphelloworld 20462" />
         <option value="package:com.example.vsomeiphelloworld" />
@@ -11,7 +14,6 @@
         <option value="package:com.example.vsomeiphelloworld 18919" />
         <option value="package:[15701]" />
         <option value="package:[]]" />
-        <option value="package:mine " />
         <option value="package:" />
         <option value="1344" />
         <option value="13440-" />
@@ -21,8 +23,6 @@
         <option value="package:com.example.vsomeiphelloworld tag:vsomeip" />
         <option value="package:com.example.vsomeiphelloworld tag=:no-tag" />
         <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient" />
-        <option value="package:com.example.vsomeiphelloworld tag:ServiceVsomeipHelloWorldClient tag" />
-        <option value="package:com.example.vsomeiphelloworld ta" />
       </list>
     </option>
   </component>
