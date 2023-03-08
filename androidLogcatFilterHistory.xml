@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="2190" />
+    <option name="mostRecentlyUsed" value="FAILED_TRANSACTION" />
     <option name="nonFavorites">
       <list>
+        <option value="FAILED_TRANSACTION" />
         <option value="2190" />
         <option value="package:mine " />
-        <option value="FAILED_TRANSACTION" />
         <option value="package:com.example.vsomeiphelloworld 20467" />
         <option value="package:com.example.vsomeiphelloworld 20462" />
         <option value="package:com.example.vsomeiphelloworld" />
