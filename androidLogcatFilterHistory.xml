@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="9734-" />
     <option name="nonFavorites">
       <list>
-        <option value="oin the main_dispatch" />
+        <option value="9734-" />
+        <option value="com.example.vsomeiphelloworld" />
         <option value="package:mine" />
+        <option value="9007-" />
+        <option value="oin the main_dispatch" />
         <option value="10850" />
         <option value="package:" />
         <option value="FAILED_TRANSACTION" />
@@ -20,9 +23,6 @@
         <option value="package:[]]" />
         <option value="1344" />
         <option value="13440-" />
-        <option value="12596-" />
-        <option value="VSomeIP_STACK" />
-        <option value="12591" />
       </list>
     </option>
   </component>
