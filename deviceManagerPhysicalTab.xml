@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="b96bb3b7" />
+          </Key>
+        </key>
+        <name value="Qualcomm QTI msmnile_gvmq for arm64" />
+        <target value="Android 12L" />
+        <api value="androidversion:32:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="012123400000005" />
           </Key>
         </key>
