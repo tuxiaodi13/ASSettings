@@ -2,6 +2,7 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.vsomeiphelloworld" />
         <option value="package:mine " />
         <option value="9734-" />
         <option value="com.example.vsomeiphelloworld" />
@@ -14,7 +15,6 @@
         <option value="2190" />
         <option value="package:com.example.vsomeiphelloworld 20467" />
         <option value="package:com.example.vsomeiphelloworld 20462" />
-        <option value="package:com.example.vsomeiphelloworld" />
         <option value="package:com.example.vsomeiphelloworld " />
         <option value="package:com.example.vsomeiphelloworld 18924" />
         <option value="package:com.example.vsomeiphelloworld 18919" />
