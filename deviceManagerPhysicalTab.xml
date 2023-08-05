@@ -19,7 +19,7 @@
             <value value="b96bb3b7" />
           </Key>
         </key>
-        <name value="Qualcomm QTI msmnile_gvmq for arm64" />
+        <name value="Device" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
