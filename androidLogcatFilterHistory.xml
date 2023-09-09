@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="42 03 |42 05" />
     <option name="nonFavorites">
       <list>
+        <option value="42 03 |42 05" />
+        <option value="42 03 | 42 05" />
         <option value="package:mine " />
         <option value="package:com.example.vsomeiphelloworld" />
         <option value="package:com.example.service" />
@@ -20,8 +23,6 @@
         <option value="package:com.example.vsomeiphelloworld " />
         <option value="package:com.example.vsomeiphelloworld 18924" />
         <option value="package:com.example.vsomeiphelloworld 18919" />
-        <option value="package:[15701]" />
-        <option value="package:[]]" />
       </list>
     </option>
   </component>
