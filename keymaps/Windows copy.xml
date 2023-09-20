@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
