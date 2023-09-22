@@ -9,8 +9,7 @@
   <action id="EditorUnSelectWord" />
   <action id="ExportToTextFile" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -37,6 +36,7 @@
   <action id="SmartUnSelect" />
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
