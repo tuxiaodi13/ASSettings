@@ -34,6 +34,12 @@
   <action id="InsertLiveTemplate" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.ToggleAmendCommitMode" />
