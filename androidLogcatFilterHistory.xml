@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AndroidR" />
+    <option name="mostRecentlyUsed" value="package:com.android.inputmethod.latin" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.android.inputmethod.latin" />
         <option value="AndroidR" />
         <option value="42 03" />
         <option value="42 03 |42 05" />
@@ -22,7 +23,6 @@
         <option value="2190" />
         <option value="package:com.example.vsomeiphelloworld 20467" />
         <option value="package:com.example.vsomeiphelloworld 20462" />
-        <option value="package:com.example.vsomeiphelloworld " />
       </list>
     </option>
   </component>
