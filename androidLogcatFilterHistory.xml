@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.android.inputmethod.latin" />
+    <option name="mostRecentlyUsed" value="getXmlId" />
     <option name="nonFavorites">
       <list>
+        <option value="getXmlId" />
+        <option value="setSubtype" />
+        <option value="KeyboardLayoutSet not found" />
+        <option value="KeyboardLayoutSet" />
+        <option value="keyboard_layout_set_qwerty" />
         <option value="package:com.android.inputmethod.latin" />
         <option value="AndroidR" />
         <option value="42 03" />
@@ -18,11 +23,6 @@
         <option value="9007-" />
         <option value="oin the main_dispatch" />
         <option value="10850" />
-        <option value="package:" />
-        <option value="FAILED_TRANSACTION" />
-        <option value="2190" />
-        <option value="package:com.example.vsomeiphelloworld 20467" />
-        <option value="package:com.example.vsomeiphelloworld 20462" />
       </list>
     </option>
   </component>
