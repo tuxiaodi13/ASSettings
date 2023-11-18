@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onEvent" />
+    <option name="mostRecentlyUsed" value="onHideWindow" />
     <option name="nonFavorites">
       <list>
-        <option value="onHideWindow" />
         <option value="onEvent" />
+        <option value="onHideWindow" />
         <option value="onPressKey|onEvent" />
         <option value="onPressKey" />
         <option value="getXmlId" />
