@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getXmlId" />
+    <option name="mostRecentlyUsed" value="onEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="onEvent" />
+        <option value="onPressKey|onEvent" />
+        <option value="onPressKey" />
         <option value="getXmlId" />
         <option value="setSubtype" />
         <option value="KeyboardLayoutSet not found" />
@@ -20,9 +23,6 @@
         <option value="9734-" />
         <option value="com.example.vsomeiphelloworld" />
         <option value="package:mine" />
-        <option value="9007-" />
-        <option value="oin the main_dispatch" />
-        <option value="10850" />
       </list>
     </option>
   </component>
