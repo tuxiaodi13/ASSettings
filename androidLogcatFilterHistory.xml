@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="onEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="onHideWindow" />
         <option value="onEvent" />
         <option value="onPressKey|onEvent" />
         <option value="onPressKey" />
@@ -22,7 +23,6 @@
         <option value="5929-" />
         <option value="9734-" />
         <option value="com.example.vsomeiphelloworld" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
