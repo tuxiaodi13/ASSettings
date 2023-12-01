@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1701417650187</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1701417650187</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="270" y="19" key="SettingsEditor" timestamp="1701417673535">
+          <screen x="0" y="0" width="1536" height="834" />
+        </state>
+        <state x="270" y="19" key="SettingsEditor/0.0.1536.834/0.-1080.1536.834" timestamp="1701417673535" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
