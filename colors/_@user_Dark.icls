@@ -1,0 +1,22 @@
+<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2023-12-04T09:27:29</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">2023.2.1.14</property>
+    <property name="modified">2023-12-04T09:31:58</property>
+    <property name="originalScheme">Dark</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+  </colors>
+</scheme>
