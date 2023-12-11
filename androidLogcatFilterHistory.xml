@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="latin" />
+    <option name="mostRecentlyUsed" value="audio" />
     <option name="nonFavorites">
       <list>
+        <option value="audio" />
         <option value="latin" />
         <option value="l" />
         <option value="LEVEL:ERROR " />
