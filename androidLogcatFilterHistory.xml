@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LEVEL:ERROR " />
+    <option name="mostRecentlyUsed" value="onCameraSelectClick" />
     <option name="nonFavorites">
       <list>
+        <option value="onCameraSelectClick" />
         <option value="package:mine " />
         <option value="audio" />
         <option value="latin" />
