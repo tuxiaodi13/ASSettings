@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="process:system_server" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="process:system_server" />
         <option value="process:s" />
         <option value="p" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; process:16106" />
         <option value="package:mine &amp; process:16116" />
         <option value="package:mine &amp; process:16016" />
-        <option value="package:mine &amp; process=:16016" />
       </list>
     </option>
   </component>
