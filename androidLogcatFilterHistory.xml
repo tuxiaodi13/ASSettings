@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="process:'com.example.vsomeiphelloworld:client'" />
     <option name="nonFavorites">
       <list>
+        <option value="process:'com.example.vsomeiphelloworld:client'" />
+        <option value="process:'com.example.vsomeiphelloworld:service'" />
+        <option value="process=:com.example.vsomeiphelloworld:service" />
         <option value="package:mine " />
+        <option value="process=:'com.example.vsomeiphelloworld:service'" />
+        <option value="process=:'ple.vsomeiphelloworld:service'" />
+        <option value="process:'ple.vsomeiphelloworld:service'" />
+        <option value="process:ple.vsomeiphelloworld" />
+        <option value="process:ple.vsomeiphelloworld:service" />
+        <option value="proc" />
+        <option value="process:vsomeiphelloworld:service" />
+        <option value="package:mine &amp; process:vsomeiphelloworld:service" />
+        <option value="package:mine &amp; process~:vsomeiphelloworld:service" />
+        <option value="package:mine &amp; process:com...ple.vsomeiphelloworld:service" />
+        <option value="package:mine &amp; p" />
         <option value="process:system_server" />
         <option value="process:s" />
         <option value="p" />
         <option value="process" />
         <option value="d" />
-        <option value="i" />
-        <option value="is" />
-        <option value="n" />
-        <option value="log_version_timer_cbk vSomeIP 3.1.20.3 | (default) " />
-        <option value="16106-" />
-        <option value="process:16106" />
-        <option value=" process:16106" />
-        <option value=" process:16016" />
-        <option value=" &amp; process:16016" />
-        <option value="package:mine &amp; p" />
-        <option value="package:mine &amp; G" />
-        <option value="package:mine &amp; process:16106" />
-        <option value="package:mine &amp; process:16116" />
-        <option value="package:mine &amp; process:16016" />
       </list>
     </option>
   </component>
