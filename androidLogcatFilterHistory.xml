@@ -1,15 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="process:system_server" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="audio" />
-        <option value="nextSubType" />
-        <option value="onCameraSelectClick" />
-        <option value="latin" />
-        <option value="l" />
-        <option value="LEVEL:ERROR " />
-        <option value="L" />
+        <option value="process:system_server" />
+        <option value="process:s" />
+        <option value="p" />
+        <option value="process" />
+        <option value="d" />
+        <option value="i" />
+        <option value="is" />
+        <option value="n" />
+        <option value="log_version_timer_cbk vSomeIP 3.1.20.3 | (default) " />
+        <option value="16106-" />
+        <option value="process:16106" />
+        <option value=" process:16106" />
+        <option value=" process:16016" />
+        <option value=" &amp; process:16016" />
+        <option value="package:mine &amp; p" />
+        <option value="package:mine &amp; G" />
+        <option value="package:mine &amp; process:16106" />
+        <option value="package:mine &amp; process:16116" />
+        <option value="package:mine &amp; process:16016" />
+        <option value="package:mine &amp; process=:16016" />
       </list>
     </option>
   </component>
