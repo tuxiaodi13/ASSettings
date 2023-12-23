@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="process:'com.example.vsomeiphelloworld:client'" />
+    <option name="mostRecentlyUsed" value="process:'com.example.vsomeiphelloworld:service'" />
     <option name="nonFavorites">
       <list>
-        <option value="process:'com.example.vsomeiphelloworld:client'" />
         <option value="process:'com.example.vsomeiphelloworld:service'" />
+        <option value="package:mine" />
+        <option value="process:'com.example.vsomeiphelloworld:client'" />
         <option value="process=:com.example.vsomeiphelloworld:service" />
         <option value="package:mine " />
         <option value="process=:'com.example.vsomeiphelloworld:service'" />
@@ -22,7 +23,6 @@
         <option value="process:s" />
         <option value="p" />
         <option value="process" />
-        <option value="d" />
       </list>
     </option>
   </component>
