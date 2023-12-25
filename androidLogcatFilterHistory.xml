@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="homeGuideLocale|home_guide_status|setupCompleteGuide" />
+    <option name="mostRecentlyUsed" value="package:latin | onHideWindow" />
     <option name="nonFavorites">
       <list>
+        <option value="package:latin | onHideWindow" />
+        <option value="package:latin" />
+        <option value="package:l" />
+        <option value="onHideWindow" />
+        <option value="putIsSelected" />
         <option value="homeGuideLocale|home_guide_status|setupCompleteGuide" />
         <option value="homeGuideLocale|home_guide_status" />
         <option value="homeGuideLocale | level:error " />
@@ -18,11 +23,6 @@
         <option value="process=:'com.example.vsomeiphelloworld:service'" />
         <option value="process=:'ple.vsomeiphelloworld:service'" />
         <option value="process:'ple.vsomeiphelloworld:service'" />
-        <option value="process:ple.vsomeiphelloworld" />
-        <option value="process:ple.vsomeiphelloworld:service" />
-        <option value="proc" />
-        <option value="process:vsomeiphelloworld:service" />
-        <option value="package:mine &amp; process:vsomeiphelloworld:service" />
       </list>
     </option>
   </component>
