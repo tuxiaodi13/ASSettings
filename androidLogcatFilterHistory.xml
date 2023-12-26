@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:latin" />
+        <option value="package:latin &amp; xorResult" />
         <option value="package:latin | window" />
         <option value="package:latin | w" />
         <option value="package:latin | onHideWindow" />
@@ -22,7 +23,6 @@
         <option value="process:'com.example.vsomeiphelloworld:client'" />
         <option value="process=:com.example.vsomeiphelloworld:service" />
         <option value="package:mine " />
-        <option value="process=:'com.example.vsomeiphelloworld:service'" />
       </list>
     </option>
   </component>
