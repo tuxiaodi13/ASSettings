@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:latin | onHideWindow" />
+    <option name="mostRecentlyUsed" value="package:latin" />
     <option name="nonFavorites">
       <list>
-        <option value="package:latin | onHideWindow" />
         <option value="package:latin" />
+        <option value="package:latin | window" />
+        <option value="package:latin | w" />
+        <option value="package:latin | onHideWindow" />
         <option value="package:l" />
         <option value="onHideWindow" />
         <option value="putIsSelected" />
@@ -21,8 +23,6 @@
         <option value="process=:com.example.vsomeiphelloworld:service" />
         <option value="package:mine " />
         <option value="process=:'com.example.vsomeiphelloworld:service'" />
-        <option value="process=:'ple.vsomeiphelloworld:service'" />
-        <option value="process:'ple.vsomeiphelloworld:service'" />
       </list>
     </option>
   </component>
