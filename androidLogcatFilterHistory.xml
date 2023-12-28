@@ -1,8 +1,23 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:latin" />
+    <option name="favorites">
+      <list>
+        <option value="isatellisteUsedNumber|" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="isatellisteUsedNumber" />
     <option name="nonFavorites">
       <list>
+        <option value="isatellisteUsedNumber" />
+        <option value="_time=" />
+        <option value="package:mine " />
+        <option value="start hot boot" />
+        <option value="isatellisteUsedNumber |start hot boot" />
+        <option value="isatellisteUsedNumber tag:GpsActivity Emode" />
+        <option value="isatellisteUsedNumber|start hot boot" />
+        <option value="GpsActivity" />
+        <option value="G" />
+        <option value="LEVEL:ERROR " />
         <option value="package:latin" />
         <option value="package:latin &amp; xorResult" />
         <option value="package:latin | window" />
@@ -13,16 +28,6 @@
         <option value="putIsSelected" />
         <option value="homeGuideLocale|home_guide_status|setupCompleteGuide" />
         <option value="homeGuideLocale|home_guide_status" />
-        <option value="homeGuideLocale | level:error " />
-        <option value="homeGuideLocale | l" />
-        <option value="homeGuideLocale" />
-        <option value="process:'com.example.vsomeiphelloworld:service' | level:error " />
-        <option value="process:'com.example.vsomeiphelloworld:service' | l" />
-        <option value="process:'com.example.vsomeiphelloworld:service'" />
-        <option value="package:mine" />
-        <option value="process:'com.example.vsomeiphelloworld:client'" />
-        <option value="process=:com.example.vsomeiphelloworld:service" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
