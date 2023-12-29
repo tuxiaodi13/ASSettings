@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="isatellisteUsedNumber" />
+    <option name="mostRecentlyUsed" value="init_vsomeip" />
     <option name="nonFavorites">
       <list>
+        <option value="init_vsomeip" />
+        <option value="process:'com.example.vsomeiphelloworld'" />
         <option value="isatellisteUsedNumber" />
         <option value="_time=" />
         <option value="package:mine " />
@@ -26,8 +28,6 @@
         <option value="package:l" />
         <option value="onHideWindow" />
         <option value="putIsSelected" />
-        <option value="homeGuideLocale|home_guide_status|setupCompleteGuide" />
-        <option value="homeGuideLocale|home_guide_status" />
       </list>
     </option>
   </component>
