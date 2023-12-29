@@ -5,9 +5,17 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:'com.test.hw:client1' " />
+    <option name="mostRecentlyUsed" value="process:'com.test.hw:client2' " />
     <option name="nonFavorites">
       <list>
+        <option value="process:'com.test.hw:client2' " />
+        <option value="p:'com.test.hw:client2' " />
+        <option value="process:'com.test.hw:client1' " />
+        <option value="p:'com.test.hw:client1' " />
+        <option value="level:error " />
+        <option value="le" />
+        <option value="start hot boot" />
+        <option value="package:mine " />
         <option value="package:'com.test.hw:client1' " />
         <option value="package:'com.test.hw:client2' " />
         <option value="package:' " />
@@ -16,18 +24,10 @@
         <option value="process:'com.example.vsomeiphelloworld'" />
         <option value="isatellisteUsedNumber" />
         <option value="_time=" />
-        <option value="package:mine " />
-        <option value="start hot boot" />
         <option value="isatellisteUsedNumber |start hot boot" />
         <option value="isatellisteUsedNumber tag:GpsActivity Emode" />
         <option value="isatellisteUsedNumber|start hot boot" />
         <option value="GpsActivity" />
-        <option value="G" />
-        <option value="LEVEL:ERROR " />
-        <option value="package:latin" />
-        <option value="package:latin &amp; xorResult" />
-        <option value="package:latin | window" />
-        <option value="package:latin | w" />
       </list>
     </option>
   </component>
