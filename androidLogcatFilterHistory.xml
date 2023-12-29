@@ -5,9 +5,13 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="init_vsomeip" />
+    <option name="mostRecentlyUsed" value="package:'com.test.hw:client1' " />
     <option name="nonFavorites">
       <list>
+        <option value="package:'com.test.hw:client1' " />
+        <option value="package:'com.test.hw:client2' " />
+        <option value="package:' " />
+        <option value="process:'com.test.hw:service'" />
         <option value="init_vsomeip" />
         <option value="process:'com.example.vsomeiphelloworld'" />
         <option value="isatellisteUsedNumber" />
@@ -24,10 +28,6 @@
         <option value="package:latin &amp; xorResult" />
         <option value="package:latin | window" />
         <option value="package:latin | w" />
-        <option value="package:latin | onHideWindow" />
-        <option value="package:l" />
-        <option value="onHideWindow" />
-        <option value="putIsSelected" />
       </list>
     </option>
   </component>
