@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="process:'com.test.hw:client2' " />
+    <option name="mostRecentlyUsed" value="p:'com.test.hw:client2' " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="process:'com.test.hw:client1'" />
         <option value="process:'com.test.hw:client1' " />
         <option value="process:'com.test.hw:client2' " />
         <option value="p:'com.test.hw:client2' " />
@@ -15,7 +17,6 @@
         <option value="level:error " />
         <option value="le" />
         <option value="start hot boot" />
-        <option value="package:mine " />
         <option value="package:'com.test.hw:client1' " />
         <option value="package:'com.test.hw:client2' " />
         <option value="package:' " />
@@ -27,7 +28,6 @@
         <option value="isatellisteUsedNumber |start hot boot" />
         <option value="isatellisteUsedNumber tag:GpsActivity Emode" />
         <option value="isatellisteUsedNumber|start hot boot" />
-        <option value="GpsActivity" />
       </list>
     </option>
   </component>
