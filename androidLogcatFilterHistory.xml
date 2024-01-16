@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="process:'com.test.hw:client2' " />
+    <option name="mostRecentlyUsed" value="package:com.nng.igo.primong" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.nng.igo.primong" />
         <option value="p:'com.test.hw:client2' " />
         <option value="package:mine " />
         <option value="process:'com.test.hw:client1'" />
@@ -27,7 +28,6 @@
         <option value="_time=" />
         <option value="isatellisteUsedNumber |start hot boot" />
         <option value="isatellisteUsedNumber tag:GpsActivity Emode" />
-        <option value="isatellisteUsedNumber|start hot boot" />
       </list>
     </option>
   </component>
