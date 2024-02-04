@@ -5,9 +5,14 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SettingApplication" />
+    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView|Sprite3DViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="SV3DCatSptireSmallView|Sprite3DViewModel" />
+        <option value="SV3DCatSptireSmallView" />
+        <option value="10653" />
+        <option value="1626-" />
+        <option value="KanziSpriteModel" />
         <option value="SettingApplication" />
         <option value="package:mine " />
         <option value="package:com.desaysv.setting" />
@@ -23,11 +28,6 @@
         <option value="package:'com.test.hw:client1' " />
         <option value="package:'com.test.hw:client2' " />
         <option value="package:' " />
-        <option value="process:'com.test.hw:service'" />
-        <option value="init_vsomeip" />
-        <option value="process:'com.example.vsomeiphelloworld'" />
-        <option value="isatellisteUsedNumber" />
-        <option value="_time=" />
       </list>
     </option>
   </component>
