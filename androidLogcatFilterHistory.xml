@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView|Sprite3DViewModel" />
+    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | Sprite3DViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="SV3DCatSptireSmallView | Sprite3DViewModel" />
         <option value="SV3DCatSptireSmallView|Sprite3DViewModel" />
         <option value="SV3DCatSptireSmallView" />
         <option value="10653" />
@@ -27,7 +28,6 @@
         <option value="start hot boot" />
         <option value="package:'com.test.hw:client1' " />
         <option value="package:'com.test.hw:client2' " />
-        <option value="package:' " />
       </list>
     </option>
   </component>
