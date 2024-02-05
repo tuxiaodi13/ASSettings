@@ -5,9 +5,19 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | Sprite3DViewModel" />
+    <option name="mostRecentlyUsed" value="LauncherActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="LauncherActivity" />
+        <option value="setDataInt" />
+        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy" />
+        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | LauncherActivity" />
+        <option value="RestartCarmodel" />
+        <option value="process=: com.desaysv.launcher " />
+        <option value="process=: com.desaysv.launcher &amp; SpiManager" />
+        <option value="process=: com.desaysv.launcher | ~S" />
+        <option value="p" />
+        <option value="SpriteModelProxy | LauncherActivity" />
         <option value="SV3DCatSptireSmallView | Sprite3DViewModel" />
         <option value="SV3DCatSptireSmallView|Sprite3DViewModel" />
         <option value="SV3DCatSptireSmallView" />
@@ -18,16 +28,6 @@
         <option value="package:mine " />
         <option value="package:com.desaysv.setting" />
         <option value="package:com.nng.igo.primong" />
-        <option value="p:'com.test.hw:client2' " />
-        <option value="process:'com.test.hw:client1'" />
-        <option value="process:'com.test.hw:client1' " />
-        <option value="process:'com.test.hw:client2' " />
-        <option value="p:'com.test.hw:client1' " />
-        <option value="level:error " />
-        <option value="le" />
-        <option value="start hot boot" />
-        <option value="package:'com.test.hw:client1' " />
-        <option value="package:'com.test.hw:client2' " />
       </list>
     </option>
   </component>
