@@ -5,29 +5,29 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="LauncherActivity" />
+    <option name="mostRecentlyUsed" value="process=:com.desaysv.kanzi.sprite" />
     <option name="nonFavorites">
       <list>
-        <option value="LauncherActivity" />
-        <option value="setDataInt" />
-        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy" />
+        <option value="process=:com.desaysv.kanzi.sprite" />
+        <option value="DecorationInfo" />
+        <option value="clothes" />
+        <option value="BYZLauncherActivity" />
+        <option value="c" />
         <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | LauncherActivity" />
-        <option value="RestartCarmodel" />
-        <option value="process=: com.desaysv.launcher " />
-        <option value="process=: com.desaysv.launcher &amp; SpiManager" />
-        <option value="process=: com.desaysv.launcher | ~S" />
-        <option value="p" />
-        <option value="SpriteModelProxy | LauncherActivity" />
-        <option value="SV3DCatSptireSmallView | Sprite3DViewModel" />
-        <option value="SV3DCatSptireSmallView|Sprite3DViewModel" />
+        <option value="LauncherActivity" />
+        <option value="getSkin" />
+        <option value="DecorationModel" />
+        <option value="level:error " />
+        <option value="l" />
+        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy" />
+        <option value="process=:com.desaysv.launcher" />
+        <option value="process=:com.desaysv.launcher | process=:com.desaysv.kanzi.sprite" />
+        <option value="process=:com.desaysv.launcher | p" />
+        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | com.desaysv.kanzi.sprite" />
+        <option value="process=:com.desaysv.launcher " />
         <option value="SV3DCatSptireSmallView" />
-        <option value="10653" />
-        <option value="1626-" />
-        <option value="KanziSpriteModel" />
-        <option value="SettingApplication" />
-        <option value="package:mine " />
-        <option value="package:com.desaysv.setting" />
-        <option value="package:com.nng.igo.primong" />
+        <option value="setDataInt" />
+        <option value="RestartCarmodel" />
       </list>
     </option>
   </component>
