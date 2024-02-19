@@ -5,9 +5,15 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="process=:com.desaysv.kanzi.sprite" />
+    <option name="mostRecentlyUsed" value="2641" />
     <option name="nonFavorites">
       <list>
+        <option value="2641" />
+        <option value="CoreService" />
+        <option value="process:scene" />
+        <option value="process:com.desaysv.launcher " />
+        <option value="process:l" />
+        <option value="com.lion.scenemode.service.ACTIVE_SCENE" />
         <option value="process=:com.desaysv.kanzi.sprite" />
         <option value="DecorationInfo" />
         <option value="clothes" />
@@ -22,12 +28,6 @@
         <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy" />
         <option value="process=:com.desaysv.launcher" />
         <option value="process=:com.desaysv.launcher | process=:com.desaysv.kanzi.sprite" />
-        <option value="process=:com.desaysv.launcher | p" />
-        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | com.desaysv.kanzi.sprite" />
-        <option value="process=:com.desaysv.launcher " />
-        <option value="SV3DCatSptireSmallView" />
-        <option value="setDataInt" />
-        <option value="RestartCarmodel" />
       </list>
     </option>
   </component>
