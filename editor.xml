@@ -3,7 +3,7 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
