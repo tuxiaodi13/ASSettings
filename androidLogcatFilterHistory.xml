@@ -8,8 +8,12 @@
     <option name="mostRecentlyUsed" value="process:com.desaysv.kanzi.sprite " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="process:com.desaysv.kanzi.sprite " />
+        <option value="KanziSpriteModel" />
+        <option value="Sprite" />
+        <option value="Sprite3DViewModel" />
+        <option value="process:com.desaysv.launcher" />
+        <option value="package:mine " />
         <option value="com.lion.scenemode.service.ACTIVE_SCENE " />
         <option value="2641" />
         <option value="CoreService" />
@@ -24,10 +28,6 @@
         <option value="c" />
         <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | LauncherActivity" />
         <option value="LauncherActivity" />
-        <option value="getSkin" />
-        <option value="DecorationModel" />
-        <option value="level:error " />
-        <option value="l" />
       </list>
     </option>
   </component>
