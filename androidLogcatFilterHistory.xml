@@ -5,9 +5,14 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="process:com.desaysv.kanzi.sprite " />
+    <option name="mostRecentlyUsed" value="BlackList" />
     <option name="nonFavorites">
       <list>
+        <option value="BlackList" />
+        <option value="Black" />
+        <option value="B" />
+        <option value="launcher" />
+        <option value="l" />
         <option value="process:com.desaysv.kanzi.sprite " />
         <option value="KanziSpriteModel" />
         <option value="Sprite" />
@@ -23,11 +28,6 @@
         <option value="com.lion.scenemode.service.ACTIVE_SCENE" />
         <option value="process=:com.desaysv.kanzi.sprite" />
         <option value="DecorationInfo" />
-        <option value="clothes" />
-        <option value="BYZLauncherActivity" />
-        <option value="c" />
-        <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy | LauncherActivity" />
-        <option value="LauncherActivity" />
       </list>
     </option>
   </component>
