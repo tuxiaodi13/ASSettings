@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="process:com.desaysv.kanzi.sprite " />
     <option name="nonFavorites">
       <list>
+        <option value="process:com.desaysv.kanzi.sprite " />
         <option value="com.lion.scenemode.service.ACTIVE_SCENE " />
         <option value="2641" />
         <option value="CoreService" />
@@ -27,7 +28,6 @@
         <option value="level:error " />
         <option value="l" />
         <option value="SV3DCatSptireSmallView | Sprite3DViewModel | SpriteModelProxy" />
-        <option value="process=:com.desaysv.launcher" />
       </list>
     </option>
   </component>
