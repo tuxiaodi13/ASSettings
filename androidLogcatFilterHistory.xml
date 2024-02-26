@@ -5,9 +5,12 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="BlackList" />
+    <option name="mostRecentlyUsed" value="onHotspotEnabledChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="onHotspotEnabledChanged" />
+        <option value="com.desaysv.setting" />
+        <option value="WifiApSettingFragment" />
         <option value="BlackList" />
         <option value="Black" />
         <option value="B" />
@@ -25,9 +28,6 @@
         <option value="process:scene" />
         <option value="process:com.desaysv.launcher " />
         <option value="process:l" />
-        <option value="com.lion.scenemode.service.ACTIVE_SCENE" />
-        <option value="process=:com.desaysv.kanzi.sprite" />
-        <option value="DecorationInfo" />
       </list>
     </option>
   </component>
