@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onHotspotEnabledChanged" />
+    <option name="mostRecentlyUsed" value="AppRecyclerView" />
     <option name="nonFavorites">
       <list>
+        <option value="AppRecyclerView" />
+        <option value="startActivity-PkgName" />
         <option value="onHotspotEnabledChanged" />
         <option value="com.desaysv.setting" />
         <option value="WifiApSettingFragment" />
@@ -26,8 +28,6 @@
         <option value="2641" />
         <option value="CoreService" />
         <option value="process:scene" />
-        <option value="process:com.desaysv.launcher " />
-        <option value="process:l" />
       </list>
     </option>
   </component>
