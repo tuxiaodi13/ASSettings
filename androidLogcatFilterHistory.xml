@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="AppRecyclerView" />
+    <option name="mostRecentlyUsed" value="ThirdPhoneCard" />
     <option name="nonFavorites">
       <list>
+        <option value="ThirdPhoneCard" />
         <option value="AppRecyclerView" />
         <option value="startActivity-PkgName" />
         <option value="onHotspotEnabledChanged" />
@@ -27,7 +28,6 @@
         <option value="com.lion.scenemode.service.ACTIVE_SCENE " />
         <option value="2641" />
         <option value="CoreService" />
-        <option value="process:scene" />
       </list>
     </option>
   </component>
