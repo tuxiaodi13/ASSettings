@@ -5,29 +5,29 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ThirdPhoneCard" />
+    <option name="mostRecentlyUsed" value="Localset.Localset.Open" />
     <option name="nonFavorites">
       <list>
+        <option value="Localset.Localset.Open" />
+        <option value="APP_KEYNAME" />
+        <option value="LocalSet.Sound.NumberReadSet" />
+        <option value="Localset.Sound.SpeedVolumeSet" />
+        <option value="Localset.Sound.DefaultVolumeSet" />
+        <option value="Localset.Sound.VolumeSet" />
+        <option value="Localset.BTSet.BTNameSet" />
+        <option value="LocalSet.System.LanguageSet" />
+        <option value="LocalSet.Voice.WakeUpWordSet" />
+        <option value="LocalSet.Voice.WakefreetimeSet" />
+        <option value="LocalSet.Sound.DefaulSet" />
+        <option value="Apps.MyVehicle.Open|Apps.Mainten.Open" />
+        <option value="Apps.MyVehicle.Open" />
+        <option value="ocalSet.DisSet.RestoreDefaults" />
         <option value="ThirdPhoneCard" />
         <option value="AppRecyclerView" />
         <option value="startActivity-PkgName" />
         <option value="onHotspotEnabledChanged" />
         <option value="com.desaysv.setting" />
         <option value="WifiApSettingFragment" />
-        <option value="BlackList" />
-        <option value="Black" />
-        <option value="B" />
-        <option value="launcher" />
-        <option value="l" />
-        <option value="process:com.desaysv.kanzi.sprite " />
-        <option value="KanziSpriteModel" />
-        <option value="Sprite" />
-        <option value="Sprite3DViewModel" />
-        <option value="process:com.desaysv.launcher" />
-        <option value="package:mine " />
-        <option value="com.lion.scenemode.service.ACTIVE_SCENE " />
-        <option value="2641" />
-        <option value="CoreService" />
       </list>
     </option>
   </component>
