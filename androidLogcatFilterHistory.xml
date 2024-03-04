@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="HiCar4View" />
+    <option name="mostRecentlyUsed" value="ID_CAR_CONFIG_VOLCANIC_APP" />
     <option name="nonFavorites">
       <list>
+        <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
+        <option value="CardEditPanel" />
         <option value="HiCar4View" />
         <option value="出行服务" />
         <option value="process=:com.desaysv.launcher | i" />
@@ -26,8 +28,6 @@
         <option value="LocalSet.Sound.DefaulSet" />
         <option value="Apps.MyVehicle.Open|Apps.Mainten.Open" />
         <option value="Apps.MyVehicle.Open" />
-        <option value="ocalSet.DisSet.RestoreDefaults" />
-        <option value="ThirdPhoneCard" />
       </list>
     </option>
   </component>
