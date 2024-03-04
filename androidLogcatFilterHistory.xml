@@ -5,9 +5,12 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ID_CAR_CONFIG_VOLCANIC_APP" />
+    <option name="mostRecentlyUsed" value="DataBaseUtil" />
     <option name="nonFavorites">
       <list>
+        <option value="DataBaseUtil" />
+        <option value="APP_VOLCANO_CAR_ENTERTAINMENT" />
+        <option value="process=:com.desaysv.launcher" />
         <option value="laun" />
         <option value="l" />
         <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
@@ -15,7 +18,6 @@
         <option value="HiCar4View" />
         <option value="出行服务" />
         <option value="process=:com.desaysv.launcher | i" />
-        <option value="process=:com.desaysv.launcher" />
         <option value="p" />
         <option value="Localset.Localset.Open" />
         <option value="APP_KEYNAME" />
@@ -26,8 +28,6 @@
         <option value="Localset.BTSet.BTNameSet" />
         <option value="LocalSet.System.LanguageSet" />
         <option value="LocalSet.Voice.WakeUpWordSet" />
-        <option value="LocalSet.Voice.WakefreetimeSet" />
-        <option value="LocalSet.Sound.DefaulSet" />
       </list>
     </option>
   </component>
