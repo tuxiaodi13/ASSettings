@@ -5,9 +5,14 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Localset.Localset.Open" />
+    <option name="mostRecentlyUsed" value="HiCar4View" />
     <option name="nonFavorites">
       <list>
+        <option value="HiCar4View" />
+        <option value="出行服务" />
+        <option value="process=:com.desaysv.launcher | i" />
+        <option value="process=:com.desaysv.launcher" />
+        <option value="p" />
         <option value="Localset.Localset.Open" />
         <option value="APP_KEYNAME" />
         <option value="LocalSet.Sound.NumberReadSet" />
@@ -23,11 +28,6 @@
         <option value="Apps.MyVehicle.Open" />
         <option value="ocalSet.DisSet.RestoreDefaults" />
         <option value="ThirdPhoneCard" />
-        <option value="AppRecyclerView" />
-        <option value="startActivity-PkgName" />
-        <option value="onHotspotEnabledChanged" />
-        <option value="com.desaysv.setting" />
-        <option value="WifiApSettingFragment" />
       </list>
     </option>
   </component>
