@@ -8,6 +8,8 @@
     <option name="mostRecentlyUsed" value="ID_CAR_CONFIG_VOLCANIC_APP" />
     <option name="nonFavorites">
       <list>
+        <option value="laun" />
+        <option value="l" />
         <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
         <option value="CardEditPanel" />
         <option value="HiCar4View" />
@@ -26,8 +28,6 @@
         <option value="LocalSet.Voice.WakeUpWordSet" />
         <option value="LocalSet.Voice.WakefreetimeSet" />
         <option value="LocalSet.Sound.DefaulSet" />
-        <option value="Apps.MyVehicle.Open|Apps.Mainten.Open" />
-        <option value="Apps.MyVehicle.Open" />
       </list>
     </option>
   </component>
