@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="DataBaseUtil" />
+    <option name="mostRecentlyUsed" value="PhoneCardManager" />
     <option name="nonFavorites">
       <list>
+        <option value="PhoneCardManager" />
         <option value="DataBaseUtil" />
         <option value="APP_VOLCANO_CAR_ENTERTAINMENT" />
         <option value="process=:com.desaysv.launcher" />
@@ -27,7 +28,6 @@
         <option value="Localset.Sound.VolumeSet" />
         <option value="Localset.BTSet.BTNameSet" />
         <option value="LocalSet.System.LanguageSet" />
-        <option value="LocalSet.Voice.WakeUpWordSet" />
       </list>
     </option>
   </component>
