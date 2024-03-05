@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="PhoneCardManager" />
+    <option name="mostRecentlyUsed" value="CONTACT_SYNC" />
     <option name="nonFavorites">
       <list>
+        <option value="CONTACT_SYNC" />
         <option value="PhoneCardManager" />
         <option value="DataBaseUtil" />
         <option value="APP_VOLCANO_CAR_ENTERTAINMENT" />
@@ -27,7 +28,6 @@
         <option value="Localset.Sound.DefaultVolumeSet" />
         <option value="Localset.Sound.VolumeSet" />
         <option value="Localset.BTSet.BTNameSet" />
-        <option value="LocalSet.System.LanguageSet" />
       </list>
     </option>
   </component>
