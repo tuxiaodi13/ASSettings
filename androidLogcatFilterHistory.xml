@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="CONTACT_SYNC" />
+    <option name="mostRecentlyUsed" value="vdbtPhoneBookSync" />
     <option name="nonFavorites">
       <list>
+        <option value="vdbtPhoneBookSync" />
         <option value="CONTACT_SYNC" />
         <option value="PhoneCardManager" />
         <option value="DataBaseUtil" />
@@ -27,7 +28,6 @@
         <option value="Localset.Sound.SpeedVolumeSet" />
         <option value="Localset.Sound.DefaultVolumeSet" />
         <option value="Localset.Sound.VolumeSet" />
-        <option value="Localset.BTSet.BTNameSet" />
       </list>
     </option>
   </component>
