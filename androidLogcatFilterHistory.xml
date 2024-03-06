@@ -5,7 +5,7 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onNewIntent" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="onNewIntent" />
