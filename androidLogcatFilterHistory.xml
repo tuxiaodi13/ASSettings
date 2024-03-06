@@ -5,17 +5,21 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="vdbtPhoneBookSync" />
+    <option name="mostRecentlyUsed" value="onNewIntent" />
     <option name="nonFavorites">
       <list>
+        <option value="onNewIntent" />
+        <option value="process=:com.desaysv.launcher" />
+        <option value="package:mine " />
+        <option value="launcher" />
+        <option value="l" />
+        <option value="P" />
         <option value="vdbtPhoneBookSync" />
         <option value="CONTACT_SYNC" />
         <option value="PhoneCardManager" />
         <option value="DataBaseUtil" />
         <option value="APP_VOLCANO_CAR_ENTERTAINMENT" />
-        <option value="process=:com.desaysv.launcher" />
         <option value="laun" />
-        <option value="l" />
         <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
         <option value="CardEditPanel" />
         <option value="HiCar4View" />
@@ -24,10 +28,6 @@
         <option value="p" />
         <option value="Localset.Localset.Open" />
         <option value="APP_KEYNAME" />
-        <option value="LocalSet.Sound.NumberReadSet" />
-        <option value="Localset.Sound.SpeedVolumeSet" />
-        <option value="Localset.Sound.DefaultVolumeSet" />
-        <option value="Localset.Sound.VolumeSet" />
       </list>
     </option>
   </component>

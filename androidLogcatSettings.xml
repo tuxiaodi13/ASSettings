@@ -1,0 +1,9 @@
+<application>
+  <component name="AndroidLogcatSettings">
+    <option name="ignoredTags">
+      <set>
+        <option value="BlockDragLayout" />
+      </set>
+    </option>
+  </component>
+</application>
