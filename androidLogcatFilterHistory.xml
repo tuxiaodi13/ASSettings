@@ -5,16 +5,19 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ThirdPhoneCard" />
+    <option name="mostRecentlyUsed" value="startActivity-PkgName" />
     <option name="nonFavorites">
       <list>
+        <option value="startActivity-PkgName" />
+        <option value="Line 115023: 02-23 13:27:18.430403  1266  1266 D AppRecyclerView: onTouchEvent isSwapItemOnTouching false" />
+        <option value="AppRecyclerView" />
+        <option value="process=:com.desaysv.launcher" />
+        <option value="launcher" />
         <option value="ThirdPhoneCard" />
         <option value="updateRecords" />
         <option value="SmartScrollView" />
         <option value="onNewIntent" />
-        <option value="process=:com.desaysv.launcher" />
         <option value="package:mine " />
-        <option value="launcher" />
         <option value="l" />
         <option value="P" />
         <option value="vdbtPhoneBookSync" />
@@ -25,9 +28,6 @@
         <option value="laun" />
         <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
         <option value="CardEditPanel" />
-        <option value="HiCar4View" />
-        <option value="出行服务" />
-        <option value="process=:com.desaysv.launcher | i" />
       </list>
     </option>
   </component>
