@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SmartScrollView" />
+    <option name="mostRecentlyUsed" value="ThirdPhoneCard" />
     <option name="nonFavorites">
       <list>
+        <option value="ThirdPhoneCard" />
+        <option value="updateRecords" />
         <option value="SmartScrollView" />
         <option value="onNewIntent" />
         <option value="process=:com.desaysv.launcher" />
@@ -26,8 +28,6 @@
         <option value="HiCar4View" />
         <option value="出行服务" />
         <option value="process=:com.desaysv.launcher | i" />
-        <option value="p" />
-        <option value="Localset.Localset.Open" />
       </list>
     </option>
   </component>
