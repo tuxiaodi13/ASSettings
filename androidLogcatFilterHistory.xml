@@ -5,9 +5,10 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="SmartScrollView" />
     <option name="nonFavorites">
       <list>
+        <option value="SmartScrollView" />
         <option value="onNewIntent" />
         <option value="process=:com.desaysv.launcher" />
         <option value="package:mine " />
@@ -27,7 +28,6 @@
         <option value="process=:com.desaysv.launcher | i" />
         <option value="p" />
         <option value="Localset.Localset.Open" />
-        <option value="APP_KEYNAME" />
       </list>
     </option>
   </component>
