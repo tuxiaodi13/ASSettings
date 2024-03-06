@@ -5,9 +5,12 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView" />
+    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | KanziCommon | KanziSpriteModel" />
     <option name="nonFavorites">
       <list>
+        <option value="SV3DCatSptireSmallView | KanziCommon | KanziSpriteModel" />
+        <option value="SV3DCatSptireSmallView | KanziCommon" />
+        <option value="SV3DCatSptireSmallView|KanziCommon" />
         <option value="SV3DCatSptireSmallView" />
         <option value="startActivity-PkgName" />
         <option value="Line 115023: 02-23 13:27:18.430403  1266  1266 D AppRecyclerView: onTouchEvent isSwapItemOnTouching false" />
@@ -25,9 +28,6 @@
         <option value="CONTACT_SYNC" />
         <option value="PhoneCardManager" />
         <option value="DataBaseUtil" />
-        <option value="APP_VOLCANO_CAR_ENTERTAINMENT" />
-        <option value="laun" />
-        <option value="ID_CAR_CONFIG_VOLCANIC_APP" />
       </list>
     </option>
   </component>
