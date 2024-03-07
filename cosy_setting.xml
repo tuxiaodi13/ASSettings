@@ -43,6 +43,7 @@
         </entry>
       </map>
     </option>
+    <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
