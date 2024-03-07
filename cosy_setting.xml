@@ -30,5 +30,17 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="chery-8155-app|1359939063718622">
+          <value>
+            <list>
+              <option value="/explain code" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
