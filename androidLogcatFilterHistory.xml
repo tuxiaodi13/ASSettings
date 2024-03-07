@@ -5,9 +5,14 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="setDataInt" />
+    <option name="mostRecentlyUsed" value="73 53 09 00 " />
     <option name="nonFavorites">
       <list>
+        <option value="73 53 09 00 " />
+        <option value="73 53 05 00 FE 05 01" />
+        <option value="00 FE 05 01" />
+        <option value="F" />
+        <option value="onBrightnessModeChanged" />
         <option value="setDataInt" />
         <option value="controlAction" />
         <option value="SV3DCatSptireSmallView" />
@@ -23,11 +28,6 @@
         <option value="44 10 06 00|DisplaySettingFragment" />
         <option value="44 10 06 " />
         <option value="44 10" />
-        <option value="SV3DCatSptireSmallView | KanziCommon | KanziSpriteModel" />
-        <option value="SV3DCatSptireSmallView | KanziCommon" />
-        <option value="SV3DCatSptireSmallView|KanziCommon" />
-        <option value="startActivity-PkgName" />
-        <option value="Line 115023: 02-23 13:27:18.430403  1266  1266 D AppRecyclerView: onTouchEvent isSwapItemOnTouching false" />
       </list>
     </option>
   </component>
