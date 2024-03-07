@@ -5,9 +5,19 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | KanziCommon | KanziSpriteModel" />
+    <option name="mostRecentlyUsed" value="44 10 06 00" />
     <option name="nonFavorites">
       <list>
+        <option value="44 10 06 00" />
+        <option value="setBrightnessAutoModeByTime" />
+        <option value="setBrightMode" />
+        <option value="changeBrightMode" />
+        <option value="DisplaySettingFragment" />
+        <option value="DisplaySettingFragment | 44 10 06 00" />
+        <option value="44 10 06 00 | DisplaySettingFragment" />
+        <option value="44 10 06 00|DisplaySettingFragment" />
+        <option value="44 10 06 " />
+        <option value="44 10" />
         <option value="SV3DCatSptireSmallView | KanziCommon | KanziSpriteModel" />
         <option value="SV3DCatSptireSmallView | KanziCommon" />
         <option value="SV3DCatSptireSmallView|KanziCommon" />
@@ -18,16 +28,6 @@
         <option value="process=:com.desaysv.launcher" />
         <option value="launcher" />
         <option value="ThirdPhoneCard" />
-        <option value="updateRecords" />
-        <option value="SmartScrollView" />
-        <option value="onNewIntent" />
-        <option value="package:mine " />
-        <option value="l" />
-        <option value="P" />
-        <option value="vdbtPhoneBookSync" />
-        <option value="CONTACT_SYNC" />
-        <option value="PhoneCardManager" />
-        <option value="DataBaseUtil" />
       </list>
     </option>
   </component>
