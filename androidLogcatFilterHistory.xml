@@ -5,9 +5,11 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="44 10 06 00" />
+    <option name="mostRecentlyUsed" value="KanziCo" />
     <option name="nonFavorites">
       <list>
+        <option value="KanziCo" />
+        <option value="K" />
         <option value="44 10 06 00" />
         <option value="setBrightnessAutoModeByTime" />
         <option value="setBrightMode" />
@@ -26,8 +28,6 @@
         <option value="Line 115023: 02-23 13:27:18.430403  1266  1266 D AppRecyclerView: onTouchEvent isSwapItemOnTouching false" />
         <option value="AppRecyclerView" />
         <option value="process=:com.desaysv.launcher" />
-        <option value="launcher" />
-        <option value="ThirdPhoneCard" />
       </list>
     </option>
   </component>
