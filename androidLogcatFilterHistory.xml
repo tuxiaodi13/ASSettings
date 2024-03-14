@@ -5,9 +5,12 @@
         <option value="isatellisteUsedNumber|" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | controlAction" />
+    <option name="mostRecentlyUsed" value="process:laun" />
     <option name="nonFavorites">
       <list>
+        <option value="process:laun" />
+        <option value="process:l" />
+        <option value="process:com.desaysv.kanzi.sprite " />
         <option value="SV3DCatSptireSmallView | controlAction" />
         <option value="SV3DCatSptireSmallView|controlAction" />
         <option value="SV3DCatSptireSmallView" />
@@ -25,9 +28,6 @@
         <option value="setBrightMode" />
         <option value="changeBrightMode" />
         <option value="DisplaySettingFragment" />
-        <option value="DisplaySettingFragment | 44 10 06 00" />
-        <option value="44 10 06 00 | DisplaySettingFragment" />
-        <option value="44 10 06 00|DisplaySettingFragment" />
       </list>
     </option>
   </component>
