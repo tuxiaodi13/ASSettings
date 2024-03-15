@@ -35,10 +35,26 @@
         <entry key="chery-8155-app|1359939063718622">
           <value>
             <list>
-              <option value="/explain code" />
               <option value="git clone 下载到本地不包含父文件夹" />
               <option value="git 只clone某个分支" />
               <option value="kotlinx.coroutines 如何引用gradle" />
+              <option value="databinding如何使用" />
+              <option value="Glide 加载 res/miamap 下面的图片" />
+              <option value="val dataList: List&lt;WallpaperInfo&gt; = java.util.ArrayList();&#10;        dataList.add(WallpaperInfo(R.mipmap.third_wallpaper_1)); 哪里有错" />
+              <option value="Activity class  does not exist 已经在AndroidManifest里面定义了" />
+              <option value="java 非静态变量和构造函数哪个先执行" />
+              <option value="public static int dp2px(float dpValue) {&#10;        final float scale = CONTEXT.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    } 变成kotlin" />
+              <option value="public int dp2px(float dpValue) {&#10;        final float scale = CONTEXT.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    }" />
+              <option value="public static int dp2px(float dpValue) {&#10;        final float scale = mContext.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    }" />
+              <option value="Context mContext; public  int dp2px(float dpValue) { final float scale = mContext.getResources().getDisplayMetrics().density; return (int) (dpValue * scale + 0.5f); }" />
+              <option value="lateinit var mMoveNextDistance" />
+              <option value="companion object" />
+              <option value="databinding" />
+              <option value="使用databinding一定要在xml标签插入&lt;data&gt;吗" />
+              <option value="如何在布局里面动态地添加view" />
+              <option value="var dataList: MutableList&lt;WallpaperInfo&gt; 怎么新建一个列表" />
+              <option value="vim 定位到下一个括号" />
+              <option value="vim复制括号中的内容" />
             </list>
           </value>
         </entry>

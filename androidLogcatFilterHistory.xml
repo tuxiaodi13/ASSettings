@@ -1,33 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="favorites">
-      <list>
-        <option value="isatellisteUsedNumber|" />
-      </list>
-    </option>
-    <option name="mostRecentlyUsed" value="process:laun" />
+    <option name="mostRecentlyUsed" value="刘" />
     <option name="nonFavorites">
       <list>
-        <option value="SV3DCatSptireSmallView | controlAction" />
-        <option value="process:laun" />
-        <option value="process:l" />
-        <option value="process:com.desaysv.kanzi.sprite " />
-        <option value="SV3DCatSptireSmallView|controlAction" />
-        <option value="SV3DCatSptireSmallView" />
-        <option value="73 53 09 00 " />
-        <option value="73 53 05 00 FE 05 01" />
-        <option value="00 FE 05 01" />
-        <option value="F" />
-        <option value="onBrightnessModeChanged" />
-        <option value="setDataInt" />
-        <option value="controlAction" />
-        <option value="KanziCo" />
-        <option value="K" />
-        <option value="44 10 06 00" />
-        <option value="setBrightnessAutoModeByTime" />
-        <option value="setBrightMode" />
-        <option value="changeBrightMode" />
-        <option value="DisplaySettingFragment" />
+        <option value="刘" />
+        <option value="百科刘" />
+        <option value="b" />
+        <option value="startActivity" />
+        <option value="package:com.desaysv.launcher " />
+        <option value="package:l" />
+        <option value="package:com.desaysv.setting" />
+        <option value="LocalSet.Sound.DefaulSet" />
+        <option value="addDesayEventData" />
+        <option value="reset: -------Setting---Sound Mode" />
+        <option value="process:setting" />
+        <option value="process:s" />
+        <option value="p" />
+        <option value="LocalSet.Sound.DefaulSet | Apps.MyVehicle.Open | Apps.Mainten.Open" />
+        <option value="LocalSet.Sound.AlarmVolumeTypeSet | Apps.MyVehicle.Open | Apps.Mainten.Open" />
+        <option value="LocalSet.Sound.AlarmVolumeTypeSet | Apps.MyVehicle.Open | " />
+        <option value="LocalSet.Sound.AlarmVolumeTypeSet" />
+        <option value="Apps.Mainten.Open" />
+        <option value="Apps.MyVehicle.Open" />
+        <option value="LauncherWallpaperManager | WallpaperView" />
       </list>
     </option>
   </component>
