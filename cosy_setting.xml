@@ -58,6 +58,15 @@
             </list>
           </value>
         </entry>
+        <entry key="vsomeip-hello-world|1359939063718622">
+          <value>
+            <list>
+              <option value="name: C/C++ CI&#10;&#10;on:&#10;  push:&#10;    branches: [ master ]&#10;  pull_request:&#10;    branches: [ master ]&#10;&#10;jobs:&#10;  build:&#10;    runs-on: [ubuntu-18.04]&#10;    &#10;    steps:&#10;    - uses: actions/checkout@v2&#10;    - name: install dependencies&#10;      run: |&#10;        sudo apt-get update -qq&#10;        sudo apt-get install -y libboost-system-dev libboost-thread-dev libboost-log-dev googletest asciidoc source-highlight doxygen graphviz&#10;    - name: Run CMake+Ninja without triplet&#10;      uses: lukka/run-cmake@v2&#10;      with:&#10;        cmakeGenerator: 'Ninja'  &#10;        cmakeListsOrSettingsJson: 'CMakeListsTxtAdvanced'&#10;        cmakeListsTxtPath: '${{ github.workspace }}/CMakeLists.txt'&#10;        cmakeAppendedArgs: '-DGTEST_ROOT=/usr/src/googletest/googletest/ -DCMAKE_INSTALL_PREFIX=${{ runner.workspace }}/install'&#10;        buildWithCMakeArgs: '-t all build_tests doc install'&#10;        buildDirectory: '${{ runner.workspace }}/build'&#10;    - uses: actions/upload-artifact@v2&#10;      with:&#10;        name: vsomeip&#10;        path: '${{ runner.workspace }}/install/**/*'" />
+              <option value="name: C/C++ CI&#10;&#10;on:&#10;  push:&#10;    branches: [ master ]&#10;  pull_request:&#10;    branches: [ master ]&#10;&#10;jobs:&#10;  build:&#10;    runs-on: [ubuntu-18.04]&#10;    &#10;    steps:&#10;    - uses: actions/checkout@v2&#10;    - name: install dependencies&#10;      run: |&#10;        sudo apt-get update -qq&#10;        sudo apt-get install -y libboost-system-dev libboost-thread-dev libboost-log-dev googletest asciidoc source-highlight doxygen graphviz&#10;    - name: Run CMake+Ninja without triplet&#10;      uses: lukka/run-cmake@v2&#10;      with:&#10;        cmakeGenerator: 'Ninja'  &#10;        cmakeListsOrSettingsJson: 'CMakeListsTxtAdvanced'&#10;        cmakeListsTxtPath: '${{ github.workspace }}/CMakeLists.txt'&#10;        cmakeAppendedArgs: '-DGTEST_ROOT=/usr/src/googletest/googletest/ -DCMAKE_INSTALL_PREFIX=${{ runner.workspace }}/install'&#10;        buildWithCMakeArgs: '-t all build_tests doc install'&#10;        buildDirectory: '${{ runner.workspace }}/build'&#10;    - uses: actions/upload-artifact@v2&#10;      with:&#10;        name: vsomeip&#10;        path: '${{ runner.workspace }}/install/**/*'" />
+              <option value="什么是GitHub Actions" />
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
