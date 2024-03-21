@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="刘" />
+    <option name="mostRecentlyUsed" value="showDeleteDeviceDialog" />
     <option name="nonFavorites">
       <list>
+        <option value="showDeleteDeviceDialog" />
+        <option value="HiCar4AppAdapter" />
+        <option value="initHiCarType" />
+        <option value="initHiCarType: " />
+        <option value="setOnClickListener: getAppId" />
+        <option value="DeviceListFragment_T26" />
         <option value="刘" />
         <option value="百科刘" />
         <option value="b" />
@@ -17,12 +23,6 @@
         <option value="process:s" />
         <option value="p" />
         <option value="LocalSet.Sound.DefaulSet | Apps.MyVehicle.Open | Apps.Mainten.Open" />
-        <option value="LocalSet.Sound.AlarmVolumeTypeSet | Apps.MyVehicle.Open | Apps.Mainten.Open" />
-        <option value="LocalSet.Sound.AlarmVolumeTypeSet | Apps.MyVehicle.Open | " />
-        <option value="LocalSet.Sound.AlarmVolumeTypeSet" />
-        <option value="Apps.Mainten.Open" />
-        <option value="Apps.MyVehicle.Open" />
-        <option value="LauncherWallpaperManager | WallpaperView" />
       </list>
     </option>
   </component>
