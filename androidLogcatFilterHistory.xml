@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FE 77" />
+    <option name="mostRecentlyUsed" value="CarSpeedManager" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="lev" />
+        <option value="l" />
+        <option value="CarSpeedManager" />
+        <option value="getDisplaySpeed" />
+        <option value="FE " />
+        <option value="onReceiveSpi" />
+        <option value="getPowerStatus" />
+        <option value="FE 77 | CarSpeedManager | getDisplaySpeed" />
+        <option value="FE 77 | CarSpeedManager | AppUtils" />
         <option value="FE 77" />
-        <option value="F" />
         <option value="echo -n 'x03\x73\x53\x0D\x00\xFE\x32\x04\x0E\x02\x00\x00\xFE\x77\x02\x00\x1F' &gt;/dev/socket/spi_test_fifo" />
+        <option value="AppUtils" />
+        <option value="FE 77 | CarSpeedManager" />
+        <option value="FE 77|CarSpeedManager" />
         <option value="showDeleteDeviceDialog" />
         <option value="HiCar4AppAdapter" />
         <option value="initHiCarType" />
         <option value="initHiCarType: " />
         <option value="setOnClickListener: getAppId" />
-        <option value="DeviceListFragment_T26" />
-        <option value="刘" />
-        <option value="百科刘" />
-        <option value="b" />
-        <option value="startActivity" />
-        <option value="package:com.desaysv.launcher " />
-        <option value="package:l" />
-        <option value="package:com.desaysv.setting" />
-        <option value="LocalSet.Sound.DefaulSet" />
-        <option value="addDesayEventData" />
-        <option value="reset: -------Setting---Sound Mode" />
-        <option value="process:setting" />
       </list>
     </option>
   </component>
