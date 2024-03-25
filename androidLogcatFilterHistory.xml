@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="CarSpeedManager" />
+    <option name="mostRecentlyUsed" value="setBrightnessAutoModeByTime" />
     <option name="nonFavorites">
       <list>
+        <option value="setBrightnessAutoModeByTime" />
         <option value="level:error " />
         <option value="lev" />
         <option value="l" />
@@ -22,7 +23,6 @@
         <option value="HiCar4AppAdapter" />
         <option value="initHiCarType" />
         <option value="initHiCarType: " />
-        <option value="setOnClickListener: getAppId" />
       </list>
     </option>
   </component>
