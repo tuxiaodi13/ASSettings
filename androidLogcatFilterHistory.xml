@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="showDeleteDeviceDialog" />
+    <option name="mostRecentlyUsed" value="FE 77" />
     <option name="nonFavorites">
       <list>
+        <option value="FE 77" />
+        <option value="F" />
+        <option value="echo -n 'x03\x73\x53\x0D\x00\xFE\x32\x04\x0E\x02\x00\x00\xFE\x77\x02\x00\x1F' &gt;/dev/socket/spi_test_fifo" />
         <option value="showDeleteDeviceDialog" />
         <option value="HiCar4AppAdapter" />
         <option value="initHiCarType" />
@@ -20,9 +23,6 @@
         <option value="addDesayEventData" />
         <option value="reset: -------Setting---Sound Mode" />
         <option value="process:setting" />
-        <option value="process:s" />
-        <option value="p" />
-        <option value="LocalSet.Sound.DefaulSet | Apps.MyVehicle.Open | Apps.Mainten.Open" />
       </list>
     </option>
   </component>
