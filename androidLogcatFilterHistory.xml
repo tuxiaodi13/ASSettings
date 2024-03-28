@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Choreographer" />
+    <option name="mostRecentlyUsed" value="hicar" />
     <option name="nonFavorites">
       <list>
+        <option value="hicar" />
+        <option value="h" />
+        <option value="wm_" />
+        <option value="w" />
         <option value="level:error " />
         <option value="tag=:Choreographer" />
         <option value="t" />
@@ -19,10 +23,6 @@
         <option value="FE " />
         <option value="onReceiveSpi" />
         <option value="getPowerStatus" />
-        <option value="FE 77 | CarSpeedManager | getDisplaySpeed" />
-        <option value="FE 77 | CarSpeedManager | AppUtils" />
-        <option value="FE 77" />
-        <option value="echo -n 'x03\x73\x53\x0D\x00\xFE\x32\x04\x0E\x02\x00\x00\xFE\x77\x02\x00\x1F' &gt;/dev/socket/spi_test_fifo" />
       </list>
     </option>
   </component>
