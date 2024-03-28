@@ -1,10 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="setBrightnessAutoModeByTime" />
+    <option name="mostRecentlyUsed" value="tag=:Choreographer" />
     <option name="nonFavorites">
       <list>
-        <option value="setBrightnessAutoModeByTime" />
         <option value="level:error " />
+        <option value="tag=:Choreographer" />
+        <option value="t" />
+        <option value="metoo much work on its main thread" />
+        <option value="message:receive" />
+        <option value="too much work on its main thread" />
+        <option value="receive broad" />
+        <option value="The application may be doing too" />
+        <option value="setBrightnessAutoModeByTime" />
         <option value="lev" />
         <option value="l" />
         <option value="CarSpeedManager" />
@@ -16,13 +23,6 @@
         <option value="FE 77 | CarSpeedManager | AppUtils" />
         <option value="FE 77" />
         <option value="echo -n 'x03\x73\x53\x0D\x00\xFE\x32\x04\x0E\x02\x00\x00\xFE\x77\x02\x00\x1F' &gt;/dev/socket/spi_test_fifo" />
-        <option value="AppUtils" />
-        <option value="FE 77 | CarSpeedManager" />
-        <option value="FE 77|CarSpeedManager" />
-        <option value="showDeleteDeviceDialog" />
-        <option value="HiCar4AppAdapter" />
-        <option value="initHiCarType" />
-        <option value="initHiCarType: " />
       </list>
     </option>
   </component>
