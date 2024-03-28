@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="hicar" />
+    <option name="mostRecentlyUsed" value="tag=:Choreographer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:Choreographer" />
         <option value="hicar" />
         <option value="h" />
         <option value="wm_" />
         <option value="w" />
         <option value="level:error " />
-        <option value="tag=:Choreographer" />
         <option value="t" />
         <option value="metoo much work on its main thread" />
         <option value="message:receive" />
