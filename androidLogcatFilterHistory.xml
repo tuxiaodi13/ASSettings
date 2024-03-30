@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged | initDataThemeFirs" />
+    <option name="mostRecentlyUsed" value="Position------------onChanged:" />
     <option name="nonFavorites">
       <list>
+        <option value="Position------------onChanged:" />
+        <option value="Position------------onChanged: 5-------isMainActivityBack" />
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged | initDataThemeFirs" />
+        <option value="nitVPABig: -------setCarS" />
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged" />
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | " />
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | o" />
@@ -20,9 +23,6 @@
         <option value="initVPABig | onSurfaceTextureAvailable | onActDes" />
         <option value="initVPABig | onSurfaceTextureAvailable | o" />
         <option value="initVPABig | onSurfaceTextureAvailable" />
-        <option value="initVPABig | onActDestory:" />
-        <option value="initVPABig | onActDestory: | 'SV3DCatSptireView: onSurfaceTextureAvailable' | 'SV3DCatSptireView: initView' | Position------------onChanged | ThemeContentObserver -----------onChange" />
-        <option value="ThemeContentObserver | Position------------onChanged" />
       </list>
     </option>
   </component>
