@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | isShow" />
+    <option name="mostRecentlyUsed" value="main thread" />
     <option name="nonFavorites">
       <list>
+        <option value="main thread" />
+        <option value="main t" />
+        <option value="m" />
         <option value="SV3DCatSptireSmallView | isShow" />
         <option value="onSurfaceTextu | isShow" />
         <option value="onSurfaceTextu | onResume isS" />
@@ -20,9 +23,6 @@
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView" />
         <option value="SV3DCatSptireSmallView|SV3DCatSptireView" />
         <option value="SV3DCatSptireSmallView" />
-        <option value="removeWindow" />
-        <option value="Position------------onChanged" />
-        <option value="KanziCommon" />
       </list>
     </option>
   </component>
