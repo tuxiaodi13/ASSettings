@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="main thread" />
+    <option name="mostRecentlyUsed" value="tag:Choreographe" />
     <option name="nonFavorites">
       <list>
-        <option value="main thread" />
-        <option value="main t" />
-        <option value="m" />
-        <option value="SV3DCatSptireSmallView | isShow" />
-        <option value="onSurfaceTextu | isShow" />
-        <option value="onSurfaceTextu | onResume isS" />
-        <option value="onSurfaceTextu" />
-        <option value="Position------------onChanged:" />
-        <option value="Position------------onChanged: 5-------isMainActivityBack" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged | initDataThemeFirs" />
-        <option value="nitVPABig: -------setCarS" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | " />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | o" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView | C" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView| CarVi" />
-        <option value="SV3DCatSptireSmallView | SV3DCatSptireView" />
-        <option value="SV3DCatSptireSmallView|SV3DCatSptireView" />
-        <option value="SV3DCatSptireSmallView" />
+        <option value="tag:Choreographe" />
+        <option value="mAutoNaviReceiver" />
+        <option value="tag=:Choreographe" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag:BlockDragLayout" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag:BlockDragLayou" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag=:BlockDragLayou" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | t" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | m" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | t" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | message" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | messa" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | m" />
+        <option value="tag=:AppMenuActivity | tag=:LauncherActivity " />
+        <option value="tag=:AppMenuActivity | tag=:Launche" />
+        <option value="tag=:AppMenuActivity | tag=:Launc" />
+        <option value="tag=:AppMenuActivity | tag=:Lau" />
       </list>
     </option>
   </component>
