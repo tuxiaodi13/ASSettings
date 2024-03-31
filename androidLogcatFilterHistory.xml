@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Position------------onChanged:" />
+    <option name="mostRecentlyUsed" value="SV3DCatSptireSmallView | isShow" />
     <option name="nonFavorites">
       <list>
+        <option value="SV3DCatSptireSmallView | isShow" />
+        <option value="onSurfaceTextu | isShow" />
+        <option value="onSurfaceTextu | onResume isS" />
+        <option value="onSurfaceTextu" />
         <option value="Position------------onChanged:" />
         <option value="Position------------onChanged: 5-------isMainActivityBack" />
         <option value="SV3DCatSptireSmallView | SV3DCatSptireView | CarVi | onResume | Position------------onChanged | initDataThemeFirs" />
@@ -19,10 +23,6 @@
         <option value="removeWindow" />
         <option value="Position------------onChanged" />
         <option value="KanziCommon" />
-        <option value="CarVisible" />
-        <option value="initVPABig | onSurfaceTextureAvailable | onActDes" />
-        <option value="initVPABig | onSurfaceTextureAvailable | o" />
-        <option value="initVPABig | onSurfaceTextureAvailable" />
       </list>
     </option>
   </component>
