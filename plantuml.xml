@@ -3,7 +3,7 @@
     <option name="lastBundledVersion" value="1.2024.3" />
     <option name="previewSettings">
       <PreviewSettings>
-        <option name="splitEditorLayout" value="Show editor only" />
+        <option name="splitEditorLayout" value="Show editor and preview - horizontal split" />
       </PreviewSettings>
     </option>
   </component>

@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Choreographe" />
+    <option name="mostRecentlyUsed" value="initVPABig" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Choreographe" />
-        <option value="mAutoNaviReceiver" />
-        <option value="tag=:Choreographe" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag:BlockDragLayout" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag:BlockDragLayou" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag=:BlockDragLayou" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | tag" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | t" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer | m" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:Choreographer" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag=:" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | tag" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | t" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | message" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | messa" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity | m" />
-        <option value="tag=:AppMenuActivity | tag=:LauncherActivity " />
-        <option value="tag=:AppMenuActivity | tag=:Launche" />
-        <option value="tag=:AppMenuActivity | tag=:Launc" />
-        <option value="tag=:AppMenuActivity | tag=:Lau" />
+        <option value="initVPABig" />
+        <option value="onResume isShown" />
+        <option value="process=:com.desaysv.launcher &amp; (tag:LogMonitor | tag=:Choreographer)" />
+        <option value="process=:com.desaysv.launcher" />
+        <option value="process=:com.desaysv.launcher &amp; (tag:LogMonitor | Dispatching | Finished | tag=:Choreographer)" />
+        <option value="process=:com.desaysv. tag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
+        <option value="ptag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
+        <option value="tag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
+        <option value="Notifying about top task: TaskInfoCont" />
+        <option value="com.android.ca" />
+        <option value="CAR.AM" />
+        <option value="process=:com.desaysv.launcher " />
+        <option value="process=:com." />
+        <option value="process=:c" />
+        <option value="p" />
+        <option value="&gt;&gt;&gt;&gt;&gt; Dispatching" />
+        <option value="tag=:MediaPlayerNative" />
+        <option value="tMediaPlayerNative" />
+        <option value="M" />
+        <option value="tag:LogMonitor | Dispatching | Finished | tChoreographer" />
       </list>
     </option>
   </component>
