@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="initVPABig" />
+    <option name="mostRecentlyUsed" value="energySavingStatusChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="energySavingStatusChanged" />
+        <option value="tag=:SettingApplication" />
+        <option value="t" />
+        <option value="test----" />
         <option value="initVPABig" />
         <option value="onResume isShown" />
         <option value="process=:com.desaysv.launcher &amp; (tag:LogMonitor | tag=:Choreographer)" />
@@ -19,10 +23,6 @@
         <option value="process=:c" />
         <option value="p" />
         <option value="&gt;&gt;&gt;&gt;&gt; Dispatching" />
-        <option value="tag=:MediaPlayerNative" />
-        <option value="tMediaPlayerNative" />
-        <option value="M" />
-        <option value="tag:LogMonitor | Dispatching | Finished | tChoreographer" />
       </list>
     </option>
   </component>
