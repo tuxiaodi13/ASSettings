@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="process=:com.byd.ota | package=:com.desaysv.ivi.vds.upgrade" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="process=:com.byd.ota" />
@@ -22,7 +23,6 @@
         <option value="process=:com.desaysv. tag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
         <option value="ptag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
         <option value="tag:LogMonitor | Dispatching | Finished | tag=:Choreographer" />
-        <option value="Notifying about top task: TaskInfoCont" />
       </list>
     </option>
   </component>
