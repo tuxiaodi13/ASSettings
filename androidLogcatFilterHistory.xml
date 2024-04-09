@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
+    <option name="mostRecentlyUsed" value="process=:com.byd.ota | package=:com.desaysv.ivi.vds.upgrade" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
-        <option value="process=:com.byd.ota | package=:com.desaysv.ivi.vds.upgrade" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
+        <option value="process=:com.byd.ota | package=:com.desaysv.ivi.vds.upgrade" />
+        <option value="package:mine " />
         <option value="process=:com.byd.ota" />
         <option value="process=:com.byd.ota | package=:com.desaysv.ivi.vds.upgrad" />
         <option value="process=:com.byd.ota | pa=:com.desaysv.ivi.vds.upgrad" />
