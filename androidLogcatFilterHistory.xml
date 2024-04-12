@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="process=:com.byd.ota" />
+    <option name="mostRecentlyUsed" value="package:mine -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector" />
         <option value="process=:com.byd.ota" />
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="process=:com.byd." />
         <option value="process=:com." />
         <option value="process=:c" />
         <option value="proce" />
-        <option value="package:mine -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector" />
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="process=:com.byd.ota | message:onUpdateFail" />
         <option value="process=:com.byd.ota | message:onupdate" />
         <option value="process=:com.byd.ota | m" />
