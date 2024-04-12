@@ -3,8 +3,13 @@
     <option name="mostRecentlyUsed" value="process=:com.byd.ota" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="process=:com.byd.ota" />
+        <option value="process=:com.byd." />
+        <option value="process=:com." />
+        <option value="process=:c" />
+        <option value="proce" />
+        <option value="package:mine -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector" />
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="process=:com.byd.ota | message:onUpdateFail" />
         <option value="process=:com.byd.ota | message:onupdate" />
         <option value="process=:com.byd.ota | m" />
@@ -18,11 +23,6 @@
         <option value="energySavingStatusChanged" />
         <option value="t" />
         <option value="test----" />
-        <option value="initVPABig" />
-        <option value="onResume isShown" />
-        <option value="process=:com.desaysv.launcher &amp; (tag:LogMonitor | tag=:Choreographer)" />
-        <option value="process=:com.desaysv.launcher" />
-        <option value="process=:com.desaysv.launcher &amp; (tag:LogMonitor | Dispatching | Finished | tag=:Choreographer)" />
       </list>
     </option>
   </component>
