@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="INS" />
+    <option name="mostRecentlyUsed" value="onPress | onRelease" />
     <option name="nonFavorites">
       <list>
+        <option value="onPress | onRelease" />
+        <option value="onPress | o" />
         <option value="INS" />
         <option value="IN" />
         <option value="process=:com.byd.ota" />
@@ -21,8 +23,6 @@
         <option value="initData curLocale" />
         <option value="level:error " />
         <option value="l" />
-        <option value="process=:com.byd." />
-        <option value="process=:com." />
       </list>
     </option>
   </component>
