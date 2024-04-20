@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="write: | read: " />
+    <option name="mostRecentlyUsed" value="0x735F " />
     <option name="nonFavorites">
       <list>
+        <option value="0x735F " />
+        <option value="0x735F | send" />
         <option value="write: | read: " />
         <option value="write: | r" />
         <option value="w" />
         <option value="process=:com.byd.ota" />
         <option value="0x735F | sendU" />
-        <option value="0x735F | send" />
         <option value="0x735F | s" />
         <option value="0x735F | " />
         <option value="0x735F" />
@@ -22,7 +23,6 @@
         <option value="INS" />
         <option value="IN" />
         <option value="getPowerLevel " />
-        <option value="powerState" />
       </list>
     </option>
   </component>
