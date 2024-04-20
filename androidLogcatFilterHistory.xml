@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:LanguageChangeView" />
+    <option name="mostRecentlyUsed" value="0x735F" />
     <option name="nonFavorites">
       <list>
+        <option value="0x735F" />
         <option value="process=:com.byd.ota" />
         <option value="tag=:LanguageChangeView" />
         <option value="t=:LanguageChangeView" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="process:com.android.inputmethod" />
         <option value="process=:mine" />
-        <option value="process=:m" />
       </list>
     </option>
   </component>
