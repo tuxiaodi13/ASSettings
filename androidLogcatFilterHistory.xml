@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="0x735F" />
+    <option name="mostRecentlyUsed" value="0x735F | sendU" />
     <option name="nonFavorites">
       <list>
+        <option value="0x735F | sendU" />
+        <option value="0x735F | send" />
+        <option value="0x735F | s" />
+        <option value="0x735F | " />
         <option value="0x735F" />
         <option value="process=:com.byd.ota" />
         <option value="tag=:LanguageChangeView" />
@@ -19,10 +23,6 @@
         <option value="message:setDisplayPowerState" />
         <option value="process=:com.byd.ota | m" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
-        <option value="package:mine -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector" />
-        <option value="package:mine " />
-        <option value="process:com.android.inputmethod" />
-        <option value="process=:mine" />
       </list>
     </option>
   </component>
