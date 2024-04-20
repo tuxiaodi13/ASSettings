@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag=:LanguageChangeView" />
     <option name="nonFavorites">
       <list>
+        <option value="process=:com.byd.ota" />
         <option value="tag=:LanguageChangeView" />
         <option value="t=:LanguageChangeView" />
         <option value="initData | " />
@@ -12,7 +13,6 @@
         <option value="onPress | o" />
         <option value="INS" />
         <option value="IN" />
-        <option value="process=:com.byd.ota" />
         <option value="getPowerLevel " />
         <option value="powerState" />
         <option value="message:setDisplayPowerState" />
