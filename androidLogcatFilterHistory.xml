@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="0x735F " />
+    <option name="mostRecentlyUsed" value="0x735F | sendU" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
+        <option value="0x735F | sendU" />
+        <option value="0x735F | se" />
         <option value="0x735F " />
         <option value="0x735F | send" />
         <option value="write: | read: " />
         <option value="write: | r" />
         <option value="w" />
         <option value="process=:com.byd.ota" />
-        <option value="0x735F | sendU" />
         <option value="0x735F | s" />
         <option value="0x735F | " />
         <option value="0x735F" />
@@ -21,8 +23,6 @@
         <option value="onPress | onRelease" />
         <option value="onPress | o" />
         <option value="INS" />
-        <option value="IN" />
-        <option value="getPowerLevel " />
       </list>
     </option>
   </component>
