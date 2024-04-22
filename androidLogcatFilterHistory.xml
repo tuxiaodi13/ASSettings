@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="0x735F | sendU" />
+    <option name="mostRecentlyUsed" value="解压" />
     <option name="nonFavorites">
       <list>
+        <option value="解压" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="0x735F | sendU" />
         <option value="0x735F | se" />
@@ -22,7 +23,6 @@
         <option value="T" />
         <option value="onPress | onRelease" />
         <option value="onPress | o" />
-        <option value="INS" />
       </list>
     </option>
   </component>
