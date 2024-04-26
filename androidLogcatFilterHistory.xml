@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="解压" />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="level:error " />
+        <option value="l" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
-        <option value="解压" />
-        <option value="0x735F | sendU" />
-        <option value="0x735F | se" />
-        <option value="0x735F " />
-        <option value="0x735F | send" />
-        <option value="write: | read: " />
-        <option value="write: | r" />
-        <option value="w" />
+        <option value="tag=:SSLTEST" />
+        <option value="tag=:S" />
+        <option value="tag=:ssltest " />
+        <option value="tag=:s" />
+        <option value="tag" />
+        <option value="hal_rsa_sign" />
+        <option value="h" />
         <option value="process=:com.byd.ota" />
-        <option value="0x735F | s" />
-        <option value="0x735F | " />
-        <option value="0x735F" />
-        <option value="tag=:LanguageChangeView" />
-        <option value="t=:LanguageChangeView" />
-        <option value="initData | " />
-        <option value="TAG=:LanguageChangeView" />
-        <option value="T" />
-        <option value="onPress | onRelease" />
-        <option value="onPress | o" />
+        <option value="MASTER" />
+        <option value="M" />
+        <option value="onStart" />
+        <option value="o" />
+        <option value="a" />
+        <option value="m" />
+        <option value="otaMaster" />
+        <option value="解压" />
       </list>
     </option>
   </component>
