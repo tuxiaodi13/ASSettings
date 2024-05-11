@@ -3,6 +3,9 @@
     <option name="mostRecentlyUsed" value="process=:com.desaysv.ivi.vds.upgrade" />
     <option name="nonFavorites">
       <list>
+        <option value="process=:com.byd.ota " />
+        <option value="process=:com.byd." />
+        <option value="process=:com.b" />
         <option value="process=:com.desaysv.ivi.vds.upgrade" />
         <option value="Single" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="h" />
         <option value="MASTER" />
         <option value="M" />
-        <option value="onStart" />
-        <option value="o" />
-        <option value="a" />
       </list>
     </option>
   </component>
