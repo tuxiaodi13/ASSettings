@@ -1,5 +1,6 @@
 <application>
   <component name="AndroidLogcatSettings">
+    <option name="bufferSize" value="41943040" />
     <option name="ignoredTags">
       <set>
         <option value="BlockDragLayout" />
