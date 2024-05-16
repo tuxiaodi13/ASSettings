@@ -1,0 +1,5 @@
+<application>
+  <component name="Emulator">
+    <option name="showCameraControlPrompts" value="false" />
+  </component>
+</application>
