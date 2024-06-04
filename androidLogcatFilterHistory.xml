@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
+    <option name="mostRecentlyUsed" value="type=5," />
     <option name="nonFavorites">
       <list>
+        <option value="type=5," />
+        <option value="t" />
+        <option value="package:com.byd.ota" />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|removeMessages -tag:vdconnector " />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|chatty|removeMessages -tag:vdconnector " />
@@ -20,9 +23,6 @@
         <option value="tag=:SSLTEST" />
         <option value="tag=:S" />
         <option value="tag=:ssltest " />
-        <option value="tag=:s" />
-        <option value="tag" />
-        <option value="hal_rsa_sign" />
       </list>
     </option>
   </component>
