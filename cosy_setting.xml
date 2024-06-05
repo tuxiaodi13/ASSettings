@@ -39,6 +39,7 @@
               <option value="增强for循环的顺序" />
               <option value="英文 无效的数据" />
               <option value="System.arrayCopy的实现" />
+              <option value="byte[] 转String的 java方法" />
             </list>
           </value>
         </entry>
