@@ -44,6 +44,7 @@
               <option value="List是深拷贝还是浅拷贝" />
               <option value="public EcuInfoRunnable(@NonNull List&lt;OtaProto.EcuDidInfoReq&gt; list) {&#10;        mEcuDidInfoReqList = list;&#10;        Log.d(TAG, &quot;mEcuDidInfoReqList.size: &quot; + mEcuDidInfoReqList.size());&#10;    这里列表是深拷贝还是浅拷贝" />
               <option value="List.clone" />
+              <option value="vim替换操作" />
             </list>
           </value>
         </entry>
