@@ -40,6 +40,7 @@
               <option value="英文 无效的数据" />
               <option value="System.arrayCopy的实现" />
               <option value="byte[] 转String的 java方法" />
+              <option value="byte[0]=0x62, byte[1]=0xFD， 转成字符串为&quot;62FD&quot;" />
             </list>
           </value>
         </entry>
