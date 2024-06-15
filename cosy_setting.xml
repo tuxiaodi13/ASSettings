@@ -38,6 +38,7 @@
               <option value="Plant表示向下的箭头" />
               <option value="PlantUML表示向下的箭头" />
               <option value="组件图中向下的箭头" />
+              <option value="PlantUML 时序图怎么表示创建实例" />
             </list>
           </value>
         </entry>
