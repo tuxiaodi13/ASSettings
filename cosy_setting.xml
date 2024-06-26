@@ -45,8 +45,6 @@
         <entry key="byd-8155-common-app|1359939063718622">
           <value>
             <list>
-              <option value="java 增强for循环是按照什么顺序" />
-              <option value="增强for循环的顺序" />
               <option value="英文 无效的数据" />
               <option value="System.arrayCopy的实现" />
               <option value="byte[] 转String的 java方法" />
@@ -61,6 +59,12 @@
               <option value="会产生tombstone的错误可以被try-catch捕获吗" />
               <option value="/generate optimization" />
               <option value="/generate comment" />
+              <option value="android  persist属性" />
+              <option value="xml  persist属性配置" />
+              <option value="androidManifest.xml配置persist" />
+              <option value="androidManifest.xml配置persistent" />
+              <option value="directBootAware" />
+              <option value="可以用在 Service吗" />
             </list>
           </value>
         </entry>
