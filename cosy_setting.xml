@@ -60,6 +60,7 @@
               <option value="java的try-catch 可以捕获 native 错误吗？" />
               <option value="会产生tombstone的错误可以被try-catch捕获吗" />
               <option value="/generate optimization" />
+              <option value="/generate comment" />
             </list>
           </value>
         </entry>
