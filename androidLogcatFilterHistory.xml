@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="type=5," />
+    <option name="mostRecentlyUsed" value="print logByd" />
     <option name="nonFavorites">
       <list>
+        <option value="print logByd" />
         <option value="type=5," />
         <option value="t" />
         <option value="package:com.byd.ota" />
@@ -22,7 +23,6 @@
         <option value="l" />
         <option value="tag=:SSLTEST" />
         <option value="tag=:S" />
-        <option value="tag=:ssltest " />
       </list>
     </option>
   </component>
