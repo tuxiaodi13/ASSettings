@@ -45,9 +45,6 @@
         <entry key="byd-8155-common-app|1359939063718622">
           <value>
             <list>
-              <option value="英文 无效的数据" />
-              <option value="System.arrayCopy的实现" />
-              <option value="byte[] 转String的 java方法" />
               <option value="byte[0]=0x62, byte[1]=0xFD， 转成字符串为&quot;62FD&quot;" />
               <option value="List是深拷贝还是浅拷贝" />
               <option value="public EcuInfoRunnable(@NonNull List&lt;OtaProto.EcuDidInfoReq&gt; list) {&#10;        mEcuDidInfoReqList = list;&#10;        Log.d(TAG, &quot;mEcuDidInfoReqList.size: &quot; + mEcuDidInfoReqList.size());&#10;    这里列表是深拷贝还是浅拷贝" />
@@ -65,6 +62,9 @@
               <option value="androidManifest.xml配置persistent" />
               <option value="directBootAware" />
               <option value="可以用在 Service吗" />
+              <option value="vim 寄存器" />
+              <option value="vim只想删除行，但是不保存在寄存器" />
+              <option value="vim寄存器" />
             </list>
           </value>
         </entry>
