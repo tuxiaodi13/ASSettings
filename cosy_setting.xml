@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="C:\Users\UIDQ3852\.lingma" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -12,7 +14,7 @@
                 <option name="modelLevel" value="large" />
               </CloudModelAutoTrigger>
             </option>
-            <option name="enable" value="true" />
+            <option name="enable" value="false" />
             <option name="manualTrigger">
               <CloudModelManualTrigger>
                 <option name="generateLength" value="level_2" />
@@ -46,9 +48,6 @@
           <value>
             <list>
               <option value="/generate optimization" />
-              <option value="java的try-catch 可以捕获 native 错误吗？" />
-              <option value="会产生tombstone的错误可以被try-catch捕获吗" />
-              <option value="/generate optimization" />
               <option value="/generate comment" />
               <option value="android  persist属性" />
               <option value="xml  persist属性配置" />
@@ -65,6 +64,9 @@
               <option value="androidStudio的代码段收起，打开" />
               <option value="androidStudio不显示代码折叠图标" />
               <option value="android 代码折叠快捷键" />
+              <option value="android自身的日志在哪里" />
+              <option value="androidStudio自身的日志" />
+              <option value="/generate unit test" />
             </list>
           </value>
         </entry>
