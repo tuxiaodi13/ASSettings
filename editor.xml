@@ -7,6 +7,9 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseInnerClasses" value="true" />
