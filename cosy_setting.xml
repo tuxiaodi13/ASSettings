@@ -32,6 +32,42 @@
     </option>
     <option name="recentQueries">
       <map>
+        <entry key="DS06A-GW|1359939063718622">
+          <value>
+            <list>
+              <option value="Plant表示向下的箭头" />
+              <option value="PlantUML表示向下的箭头" />
+              <option value="组件图中向下的箭头" />
+              <option value="PlantUML 时序图怎么表示创建实例" />
+            </list>
+          </value>
+        </entry>
+        <entry key="byd-8155-common-app|1359939063718622">
+          <value>
+            <list>
+              <option value="/generate optimization" />
+              <option value="java的try-catch 可以捕获 native 错误吗？" />
+              <option value="会产生tombstone的错误可以被try-catch捕获吗" />
+              <option value="/generate optimization" />
+              <option value="/generate comment" />
+              <option value="android  persist属性" />
+              <option value="xml  persist属性配置" />
+              <option value="androidManifest.xml配置persist" />
+              <option value="androidManifest.xml配置persistent" />
+              <option value="directBootAware" />
+              <option value="可以用在 Service吗" />
+              <option value="vim 寄存器" />
+              <option value="vim只想删除行，但是不保存在寄存器" />
+              <option value="vim寄存器" />
+              <option value="vim 比较常用的操作" />
+              <option value="vim 窗口" />
+              <option value="vim查看所有打开的标签页" />
+              <option value="androidStudio的代码段收起，打开" />
+              <option value="androidStudio不显示代码折叠图标" />
+              <option value="android 代码折叠快捷键" />
+            </list>
+          </value>
+        </entry>
         <entry key="capi-hello-world|1359939063718622">
           <value>
             <list>

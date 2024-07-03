@@ -3,5 +3,6 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
