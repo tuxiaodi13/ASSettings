@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="broadcast" />
+    <option name="mostRecentlyUsed" value="test decryptStr" />
     <option name="nonFavorites">
       <list>
+        <option value="test decryptStr" />
         <option value="package:com.byd.ota" />
         <option value="package:mine " />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
@@ -22,7 +23,6 @@
         <option value="otamaster" />
         <option value="process=:com.byd.ota" />
         <option value="level:error " />
-        <option value="l" />
       </list>
     </option>
   </component>
