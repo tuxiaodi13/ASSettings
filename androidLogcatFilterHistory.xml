@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="getIsStrMode" />
     <option name="nonFavorites">
       <list>
-        <option value="getIsStrMode" />
         <option value="package:com.gw.otaadapter " />
+        <option value="getIsStrMode" />
         <option value="getIsStrMode|notifySTR|powerMode" />
         <option value="getIsStrMode|notifySTR" />
         <option value="TAG=:MocOtaAdapterService" />
