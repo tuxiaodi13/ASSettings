@@ -11,7 +11,6 @@
     <option name="onboardingFinished" value="true" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="collapseAnonymousClasses" value="true" />
-    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
