@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getIsStrMode" />
+    <option name="mostRecentlyUsed" value="package:com.gwmfota.ota " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.gwmfota.ota " />
+        <option value="package:mine " />
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
         <option value="package:com.gw.otaadapter " />
         <option value="getIsStrMode" />
         <option value="getIsStrMode|notifySTR|powerMode" />
@@ -15,14 +18,11 @@
         <option value="  1770  " />
         <option value="test decryptStr" />
         <option value="package:com.byd.ota" />
-        <option value="package:mine " />
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
         <option value="broadcast" />
         <option value="b" />
         <option value="print logByd" />
         <option value="type=5," />
         <option value="t" />
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|removeMessages -tag:vdconnector " />
       </list>
     </option>
   </component>
