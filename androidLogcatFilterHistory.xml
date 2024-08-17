@@ -3,9 +3,9 @@
     <option name="mostRecentlyUsed" value="package:com.desaysv.setting" />
     <option name="nonFavorites">
       <list>
+        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
         <option value="package:com.desaysv.setting" />
         <option value="p" />
-        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState mPairDeviceList" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected" />
