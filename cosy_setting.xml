@@ -1,7 +1,5 @@
 <application>
   <component name="CosySettings">
-    <option name="dedicatedDomainUrl" value="" />
-    <option name="localStoragePath" value="C:\Users\UIDQ3852\.lingma" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -32,90 +30,5 @@
         </option>
       </ChangeUserSettingParams>
     </option>
-    <option name="recentQueries">
-      <map>
-        <entry key="DS06A-GW|1359939063718622">
-          <value>
-            <list>
-              <option value="Plant表示向下的箭头" />
-              <option value="PlantUML表示向下的箭头" />
-              <option value="组件图中向下的箭头" />
-              <option value="PlantUML 时序图怎么表示创建实例" />
-            </list>
-          </value>
-        </entry>
-        <entry key="byd-8155-common-app|1359939063718622">
-          <value>
-            <list>
-              <option value="java的try-catch 可以捕获 native 错误吗？" />
-              <option value="会产生tombstone的错误可以被try-catch捕获吗" />
-              <option value="/generate optimization" />
-              <option value="/generate comment" />
-              <option value="android  persist属性" />
-              <option value="xml  persist属性配置" />
-              <option value="androidManifest.xml配置persist" />
-              <option value="androidManifest.xml配置persistent" />
-              <option value="directBootAware" />
-              <option value="可以用在 Service吗" />
-              <option value="vim 寄存器" />
-              <option value="vim只想删除行，但是不保存在寄存器" />
-              <option value="vim寄存器" />
-              <option value="vim 比较常用的操作" />
-              <option value="vim 窗口" />
-              <option value="vim查看所有打开的标签页" />
-              <option value="androidStudio的代码段收起，打开" />
-              <option value="androidStudio不显示代码折叠图标" />
-              <option value="android 代码折叠快捷键" />
-              <option value="/generate optimization" />
-            </list>
-          </value>
-        </entry>
-        <entry key="capi-hello-world|1359939063718622">
-          <value>
-            <list>
-              <option value="IDEA的markdown插件怎么用" />
-            </list>
-          </value>
-        </entry>
-        <entry key="chery-8155-app|1359939063718622">
-          <value>
-            <list>
-              <option value="git clone 下载到本地不包含父文件夹" />
-              <option value="git 只clone某个分支" />
-              <option value="kotlinx.coroutines 如何引用gradle" />
-              <option value="databinding如何使用" />
-              <option value="Glide 加载 res/miamap 下面的图片" />
-              <option value="val dataList: List&lt;WallpaperInfo&gt; = java.util.ArrayList();&#10;        dataList.add(WallpaperInfo(R.mipmap.third_wallpaper_1)); 哪里有错" />
-              <option value="Activity class  does not exist 已经在AndroidManifest里面定义了" />
-              <option value="java 非静态变量和构造函数哪个先执行" />
-              <option value="public static int dp2px(float dpValue) {&#10;        final float scale = CONTEXT.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    } 变成kotlin" />
-              <option value="public int dp2px(float dpValue) {&#10;        final float scale = CONTEXT.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    }" />
-              <option value="public static int dp2px(float dpValue) {&#10;        final float scale = mContext.getResources().getDisplayMetrics().density;&#10;        return (int) (dpValue * scale + 0.5f);&#10;    }" />
-              <option value="Context mContext; public  int dp2px(float dpValue) { final float scale = mContext.getResources().getDisplayMetrics().density; return (int) (dpValue * scale + 0.5f); }" />
-              <option value="lateinit var mMoveNextDistance" />
-              <option value="companion object" />
-              <option value="databinding" />
-              <option value="使用databinding一定要在xml标签插入&lt;data&gt;吗" />
-              <option value="如何在布局里面动态地添加view" />
-              <option value="var dataList: MutableList&lt;WallpaperInfo&gt; 怎么新建一个列表" />
-              <option value="vim 定位到下一个括号" />
-              <option value="vim复制括号中的内容" />
-            </list>
-          </value>
-        </entry>
-        <entry key="vsomeip-hello-world|1359939063718622">
-          <value>
-            <list>
-              <option value="name: C/C++ CI&#10;&#10;on:&#10;  push:&#10;    branches: [ master ]&#10;  pull_request:&#10;    branches: [ master ]&#10;&#10;jobs:&#10;  build:&#10;    runs-on: [ubuntu-18.04]&#10;    &#10;    steps:&#10;    - uses: actions/checkout@v2&#10;    - name: install dependencies&#10;      run: |&#10;        sudo apt-get update -qq&#10;        sudo apt-get install -y libboost-system-dev libboost-thread-dev libboost-log-dev googletest asciidoc source-highlight doxygen graphviz&#10;    - name: Run CMake+Ninja without triplet&#10;      uses: lukka/run-cmake@v2&#10;      with:&#10;        cmakeGenerator: 'Ninja'  &#10;        cmakeListsOrSettingsJson: 'CMakeListsTxtAdvanced'&#10;        cmakeListsTxtPath: '${{ github.workspace }}/CMakeLists.txt'&#10;        cmakeAppendedArgs: '-DGTEST_ROOT=/usr/src/googletest/googletest/ -DCMAKE_INSTALL_PREFIX=${{ runner.workspace }}/install'&#10;        buildWithCMakeArgs: '-t all build_tests doc install'&#10;        buildDirectory: '${{ runner.workspace }}/build'&#10;    - uses: actions/upload-artifact@v2&#10;      with:&#10;        name: vsomeip&#10;        path: '${{ runner.workspace }}/install/**/*'" />
-              <option value="name: C/C++ CI&#10;&#10;on:&#10;  push:&#10;    branches: [ master ]&#10;  pull_request:&#10;    branches: [ master ]&#10;&#10;jobs:&#10;  build:&#10;    runs-on: [ubuntu-18.04]&#10;    &#10;    steps:&#10;    - uses: actions/checkout@v2&#10;    - name: install dependencies&#10;      run: |&#10;        sudo apt-get update -qq&#10;        sudo apt-get install -y libboost-system-dev libboost-thread-dev libboost-log-dev googletest asciidoc source-highlight doxygen graphviz&#10;    - name: Run CMake+Ninja without triplet&#10;      uses: lukka/run-cmake@v2&#10;      with:&#10;        cmakeGenerator: 'Ninja'  &#10;        cmakeListsOrSettingsJson: 'CMakeListsTxtAdvanced'&#10;        cmakeListsTxtPath: '${{ github.workspace }}/CMakeLists.txt'&#10;        cmakeAppendedArgs: '-DGTEST_ROOT=/usr/src/googletest/googletest/ -DCMAKE_INSTALL_PREFIX=${{ runner.workspace }}/install'&#10;        buildWithCMakeArgs: '-t all build_tests doc install'&#10;        buildDirectory: '${{ runner.workspace }}/build'&#10;    - uses: actions/upload-artifact@v2&#10;      with:&#10;        name: vsomeip&#10;        path: '${{ runner.workspace }}/install/**/*'" />
-              <option value="什么是GitHub Actions" />
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="showInlineAcceptTips" value="false" />
-    <option name="showInlineCancelTips" value="false" />
-    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
