@@ -31,5 +31,6 @@
       </ChangeUserSettingParams>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
   </component>
 </application>
