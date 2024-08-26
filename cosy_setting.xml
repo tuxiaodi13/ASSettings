@@ -32,5 +32,6 @@
     </option>
     <option name="showInlineAcceptTips" value="false" />
     <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
