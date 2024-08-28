@@ -1,0 +1,5 @@
+<application>
+  <component name="SmartInputRemoteConfigState">
+    <option name="config" value="{&quot;documentChangeMergeTimeRange&quot;:70,&quot;guideBaseUrl&quot;:&quot;https://smart-input-source-1315501506.cos.ap-shanghai.myqcloud.com/guidedoc&quot;,&quot;guidePurchaseAfterExpired&quot;:&quot;使用期限已经到，继续使用请点击激活按钮，如果您有不好的使用体验，可以通过微信公众号“开发效率”让我们知道，我们将持续进行优化。&quot;,&quot;ignoreCaretBetweenDocumentChangeTimeInterval&quot;:100,&quot;inputSourceChangeDelayEffectTime&quot;:600,&quot;inputSourceChangeKeyEventTimeInterval&quot;:30,&quot;inputSourceManagerKeyDelay&quot;:50000,&quot;inputSourceStatusSwitchMaxKeyTimeInterval&quot;:320,&quot;officialWebsiteUrl&quot;:&quot;https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&amp;album_id=3366659816064237569&quot;,&quot;projectSearchChangeDelay&quot;:1000,&quot;purchaseUrl&quot;:&quot;https://smart-input.com/product/purchase&quot;,&quot;sameLanguageTwiceTimeInterval&quot;:1000,&quot;serviceHostName&quot;:&quot;http://49.235.82.194:8080&quot;}" />
+  </component>
+</application>

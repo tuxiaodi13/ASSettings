@@ -1,0 +1,7 @@
+<templateSet group="DocTemplate">
+  <template name="doc" value="/**&#10; * &#10; * @Author: BAI YaoZhong&#10; * @Date: ${DATE} ${TIME}&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

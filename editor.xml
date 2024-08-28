@@ -1,12 +1,16 @@
 <application>
-  <component name="CodeVisionSettings">
-    <option name="defaultPosition" value="Right" />
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN_ONLY_ON_HOVER" value="false" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>

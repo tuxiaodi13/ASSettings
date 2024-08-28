@@ -1,0 +1,52 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

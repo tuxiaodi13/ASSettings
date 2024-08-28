@@ -1,13 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.android.inputmethod.latin " />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.setting" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.android.inputmethod.latin " />
-        <option value="putIsSelected" />
-        <option value="mAllLanguageList" />
-        <option value="initData mAllLanguageList" />
+        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
+        <option value="package:com.desaysv.setting" />
+        <option value="p" />
+        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState" />
+        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState mPairDeviceList" />
+        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected" />
+        <option value="onBluetoothPairList:|onA2dpConnectState|updateConnectedState|updateTipState|checkBtDisconnected" />
+        <option value="package:com.gwmfota.ota " />
         <option value="package:mine " />
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
+        <option value="package:com.gw.otaadapter " />
+        <option value="getIsStrMode" />
+        <option value="getIsStrMode|notifySTR|powerMode" />
+        <option value="getIsStrMode|notifySTR" />
+        <option value="TAG=:MocOtaAdapterService" />
+        <option value="T" />
+        <option value="package:com.gw.otaadapter" />
+        <option value="package:com.desaysv.someip" />
+        <option value="package:com.desaysv.someip:meter" />
+        <option value="  1770  " />
       </list>
     </option>
   </component>
