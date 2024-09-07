@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.desaysv.setting" />
+    <option name="mostRecentlyUsed" value="package:com.android.systemui | CarShortcutButton" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.android.systemui | CarShortcutButton" />
+        <option value="package:com.android.systemui | m" />
+        <option value="package:com.android.systemui" />
+        <option value="package:com.android.system" />
+        <option value="package:com.android" />
+        <option value="package:c" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
         <option value="package:com.desaysv.setting" />
         <option value="p" />
@@ -17,12 +23,6 @@
         <option value="getIsStrMode" />
         <option value="getIsStrMode|notifySTR|powerMode" />
         <option value="getIsStrMode|notifySTR" />
-        <option value="TAG=:MocOtaAdapterService" />
-        <option value="T" />
-        <option value="package:com.gw.otaadapter" />
-        <option value="package:com.desaysv.someip" />
-        <option value="package:com.desaysv.someip:meter" />
-        <option value="  1770  " />
       </list>
     </option>
   </component>
