@@ -3,6 +3,9 @@
     <option name="mostRecentlyUsed" value="package:com.android.engmode " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="le" />
+        <option value="e" />
         <option value="package:com.android.engmode " />
         <option value="package:com." />
         <option value="package:com" />
@@ -20,9 +23,6 @@
         <option value="package:com.desaysv.setting" />
         <option value="p" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState" />
-        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState mPairDeviceList" />
-        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected" />
-        <option value="onBluetoothPairList:|onA2dpConnectState|updateConnectedState|updateTipState|checkBtDisconnected" />
       </list>
     </option>
   </component>
