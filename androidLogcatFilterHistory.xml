@@ -1,14 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.android.systemui | CarShortcutButton" />
+    <option name="mostRecentlyUsed" value="package:com.android.engmode " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.android.engmode " />
+        <option value="package:com." />
+        <option value="package:com" />
+        <option value="package:co.n" />
+        <option value="package:com.adn" />
+        <option value="package:c" />
+        <option value="pa" />
+        <option value="8" />
         <option value="package:com.android.systemui | CarShortcutButton" />
         <option value="package:com.android.systemui | m" />
         <option value="package:com.android.systemui" />
         <option value="package:com.android.system" />
         <option value="package:com.android" />
-        <option value="package:c" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
         <option value="package:com.desaysv.setting" />
         <option value="p" />
@@ -16,13 +23,6 @@
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState mPairDeviceList" />
         <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected" />
         <option value="onBluetoothPairList:|onA2dpConnectState|updateConnectedState|updateTipState|checkBtDisconnected" />
-        <option value="package:com.gwmfota.ota " />
-        <option value="package:mine " />
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|identical|qualified|removeMessages -tag:vdconnector " />
-        <option value="package:com.gw.otaadapter " />
-        <option value="getIsStrMode" />
-        <option value="getIsStrMode|notifySTR|powerMode" />
-        <option value="getIsStrMode|notifySTR" />
       </list>
     </option>
   </component>
