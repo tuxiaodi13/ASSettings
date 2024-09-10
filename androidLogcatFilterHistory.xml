@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.android.engmode " />
+    <option name="mostRecentlyUsed" value="package:com.iflytek.cutefly.speechclient.hmi  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.iflytek.cutefly.speechclient.hmi  " />
+        <option value="package:i " />
+        <option value="package:com.desaysv.vradapter  " />
+        <option value="package:vrad " />
         <option value="level:error " />
         <option value="le" />
         <option value="e" />
@@ -19,10 +23,6 @@
         <option value="package:com.android.systemui" />
         <option value="package:com.android.system" />
         <option value="package:com.android" />
-        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState | checkBtDisconnected" />
-        <option value="package:com.desaysv.setting" />
-        <option value="p" />
-        <option value="onBluetoothPairList: | onA2dpConnectState | updateConnectedState | updateTipState | checkBtDisconnected | updateConnectedState" />
       </list>
     </option>
   </component>
