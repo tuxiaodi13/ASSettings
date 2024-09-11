@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="TAG=:VDBusManager" />
     <option name="nonFavorites">
       <list>
+        <option value="TAG=:VDBusManager" />
+        <option value="TA" />
         <option value="package:com.iflytek.cutefly.speechclient.hmi  " />
         <option value="package:i " />
         <option value="package:com.desaysv.vradapter  " />
@@ -21,8 +23,6 @@
         <option value="package:com.android.systemui | CarShortcutButton" />
         <option value="package:com.android.systemui | m" />
         <option value="package:com.android.systemui" />
-        <option value="package:com.android.system" />
-        <option value="package:com.android" />
       </list>
     </option>
   </component>
