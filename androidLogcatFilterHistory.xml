@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" " />
+    <option name="mostRecentlyUsed" value="message:'setViewVolume: type ='" />
     <option name="nonFavorites">
       <list>
+        <option value="message:'setViewVolume: type ='" />
+        <option value="mesetViewVolume: type =" />
+        <option value="setViewVolume: type =" />
+        <option value="message:&quot;51 16 02&quot;" />
+        <option value="M" />
+        <option value="51 16" />
+        <option value="onAudioFocusGrant" />
+        <option value="MESSAGE=:&quot;51 16&quot; | openRadioSource | MESSAGE=:&quot;A2DPSinkStateMachine: Connection state&quot; | onAudioFocusGrant" />
+        <option value="MESSAGE=:&quot;51 16&quot; | openRadioSource | MESSAGE=:&quot;A2DPSinkStateMachine: Connection state&quot; | AudioFocusMonitor: " />
+        <option value="MESSAGE=:51 16 | openRadioSource | MA2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
+        <option value="M | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
+        <option value="c | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
+        <option value="51 16 | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
+        <option value="51 16 | openRadioSource | A2DPSinkStateMachine: Connection state " />
+        <option value="51 16 | openRadioSource | " />
+        <option value="51 16 | " />
         <option value=" " />
         <option value="tag=:VDBusManager " />
         <option value="tag=:V" />
         <option value="tag=:" />
-        <option value="TAG" />
-        <option value="TAG=:VDBusManager" />
-        <option value="TA" />
-        <option value="package:com.iflytek.cutefly.speechclient.hmi  " />
-        <option value="package:i " />
-        <option value="package:com.desaysv.vradapter  " />
-        <option value="package:vrad " />
-        <option value="level:error " />
-        <option value="le" />
-        <option value="e" />
-        <option value="package:com.android.engmode " />
-        <option value="package:com." />
-        <option value="package:com" />
-        <option value="package:co.n" />
-        <option value="package:com.adn" />
-        <option value="package:c" />
       </list>
     </option>
   </component>
