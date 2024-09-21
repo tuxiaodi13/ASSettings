@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:'setViewVolume: type ='" />
+    <option name="mostRecentlyUsed" value="l" />
     <option name="nonFavorites">
       <list>
+        <option value="l" />
         <option value="message:'setViewVolume: type ='" />
         <option value="mesetViewVolume: type =" />
         <option value="setViewVolume: type =" />
@@ -22,7 +23,6 @@
         <option value=" " />
         <option value="tag=:VDBusManager " />
         <option value="tag=:V" />
-        <option value="tag=:" />
       </list>
     </option>
   </component>
