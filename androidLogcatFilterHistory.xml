@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="l" />
+    <option name="mostRecentlyUsed" value="SystemVolumeDialog | VolumeUI" />
     <option name="nonFavorites">
       <list>
+        <option value="SystemVolumeDialog | VolumeUI" />
+        <option value="SystemVolumeDialog | V" />
+        <option value="SystemVolumeDialog" />
+        <option value="VolumeUI" />
+        <option value="package:com.desaysv.media" />
+        <option value="package:com.desaysv.media:" />
+        <option value="pa" />
         <option value="l" />
         <option value="message:'setViewVolume: type ='" />
         <option value="mesetViewVolume: type =" />
@@ -16,13 +23,6 @@
         <option value="MESSAGE=:51 16 | openRadioSource | MA2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
         <option value="M | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
         <option value="c | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
-        <option value="51 16 | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
-        <option value="51 16 | openRadioSource | A2DPSinkStateMachine: Connection state " />
-        <option value="51 16 | openRadioSource | " />
-        <option value="51 16 | " />
-        <option value=" " />
-        <option value="tag=:VDBusManager " />
-        <option value="tag=:V" />
       </list>
     </option>
   </component>
