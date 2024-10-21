@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SystemVolumeDialog | VolumeUI" />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.bluetooth " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.desaysv.bluetooth " />
+        <option value="package:com.desaysv.bluetoo " />
+        <option value="package:com.desay " />
+        <option value="package:c " />
+        <option value="pa " />
         <option value="SystemVolumeDialog | VolumeUI" />
         <option value="SystemVolumeDialog | V" />
         <option value="SystemVolumeDialog" />
@@ -18,11 +23,6 @@
         <option value="M" />
         <option value="51 16" />
         <option value="onAudioFocusGrant" />
-        <option value="MESSAGE=:&quot;51 16&quot; | openRadioSource | MESSAGE=:&quot;A2DPSinkStateMachine: Connection state&quot; | onAudioFocusGrant" />
-        <option value="MESSAGE=:&quot;51 16&quot; | openRadioSource | MESSAGE=:&quot;A2DPSinkStateMachine: Connection state&quot; | AudioFocusMonitor: " />
-        <option value="MESSAGE=:51 16 | openRadioSource | MA2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
-        <option value="M | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
-        <option value="c | openRadioSource | A2DPSinkStateMachine: Connection state | AudioFocusMonitor: " />
       </list>
     </option>
   </component>
