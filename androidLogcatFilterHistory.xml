@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.desaysv.bluetooth " />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
+        <option value="level:error " />
         <option value="package:com.desaysv.bluetooth " />
         <option value="package:com.desaysv.bluetoo " />
         <option value="package:com.desay " />
@@ -21,8 +23,6 @@
         <option value="setViewVolume: type =" />
         <option value="message:&quot;51 16 02&quot;" />
         <option value="M" />
-        <option value="51 16" />
-        <option value="onAudioFocusGrant" />
       </list>
     </option>
   </component>
