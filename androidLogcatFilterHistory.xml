@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.gw.otaadapter " />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.pas " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.desaysv.pas " />
+        <option value="package:p" />
+        <option value="pac" />
         <option value="package:com.gw.otaadapter " />
         <option value="package:mine " />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
@@ -20,9 +23,6 @@
         <option value="package:com.desaysv.media:" />
         <option value="pa" />
         <option value="l" />
-        <option value="message:'setViewVolume: type ='" />
-        <option value="mesetViewVolume: type =" />
-        <option value="setViewVolume: type =" />
       </list>
     </option>
   </component>
