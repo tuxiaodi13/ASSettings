@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.android.bluetooth  " />
+    <option name="mostRecentlyUsed" value=" Read: 01 51 16 02 " />
     <option name="nonFavorites">
       <list>
+        <option value=" Read: 01 51 16 02 " />
+        <option value="51 16" />
         <option value="package:com.android.bluetooth  " />
         <option value="package:com.android. " />
         <option value="package:com.and " />
@@ -21,8 +23,6 @@
         <option value="SystemVolumeDialog | VolumeUI" />
         <option value="SystemVolumeDialog | V" />
         <option value="SystemVolumeDialog" />
-        <option value="VolumeUI" />
-        <option value="package:com.desaysv.media" />
       </list>
     </option>
   </component>
