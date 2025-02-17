@@ -64,9 +64,13 @@
   </action>
   <action id="RerunTests" />
   <action id="SelectNextOccurrence" />
+  <action id="ShowExecutionPoint" />
   <action id="SmartSelect" />
   <action id="SmartUnSelect" />
   <action id="SurroundWithLiveTemplate" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt f10" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
