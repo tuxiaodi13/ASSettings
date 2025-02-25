@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="BtPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="BtPresenter" />
+        <option value="package:mine " />
         <option value=" Read: 01 51 16 02 " />
         <option value="51 16" />
         <option value="package:com.android.bluetooth  " />
@@ -13,7 +15,6 @@
         <option value="package:p" />
         <option value="pac" />
         <option value="package:com.gw.otaadapter " />
-        <option value="package:mine " />
         <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
         <option value="level:error " />
         <option value="package:com.desaysv.bluetoo " />
@@ -22,7 +23,6 @@
         <option value="pa " />
         <option value="SystemVolumeDialog | VolumeUI" />
         <option value="SystemVolumeDialog | V" />
-        <option value="SystemVolumeDialog" />
       </list>
     </option>
   </component>
