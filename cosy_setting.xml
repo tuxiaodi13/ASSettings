@@ -34,5 +34,6 @@
     <option name="showInlineCancelTips" value="false" />
     <option name="showInlineNextTips" value="false" />
     <option name="showInlinePrevTips" value="false" />
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
