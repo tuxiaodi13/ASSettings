@@ -1,5 +1,11 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModelSelected">
+      <map>
+        <entry key="chat" value="default" />
+        <entry key="developer" value="default" />
+      </map>
+    </option>
     <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
