@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:com.gw.otaadapter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.faa.gwm.appstore" />
+        <option value="package:com.gw.otaadapter" />
         <option value="package:mine " />
+        <option value="package:" />
+        <option value="pa" />
+        <option value="package:com.faa.gwm.appstore" />
         <option value="BtPresenter" />
         <option value="B" />
         <option value="package:com.android.engmode" />
@@ -20,9 +23,6 @@
         <option value="package:com.desaysv.pas " />
         <option value="package:p" />
         <option value="pac" />
-        <option value="package:com.gw.otaadapter " />
-        <option value="package:com.desaysv.ivi.vds.upgrade -message~:0x53595354|subscribeCommit|registerVDNotifyListener|registerVDBindListener|transaction|1114113|removeMessages -tag:vdconnector " />
-        <option value="level:error " />
       </list>
     </option>
   </component>
