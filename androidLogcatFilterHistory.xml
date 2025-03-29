@@ -1,9 +1,22 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:com.gw.otaadapter" />
+        <option value="05 75 17 | 0E 73 50" />
+      </list>
+    </option>
     <option name="mostRecentlyUsed" value="package:com.gw.otaadapter" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.gw.otaadapter" />
+        <option value="05 75 17 | 73 50" />
+        <option value="75 17 | 73 50" />
+        <option value=" 75 17 | 73 50" />
+        <option value="()" />
+        <option value="75 17 | 73 50  " />
+        <option value="75 17 | 73 50 " />
+        <option value="75" />
+        <option value="73" />
         <option value="package:mine " />
         <option value="package:" />
         <option value="pa" />
@@ -16,13 +29,6 @@
         <option value="package:com." />
         <option value=" Read: 01 51 16 02 " />
         <option value="51 16" />
-        <option value="package:com.android.bluetooth  " />
-        <option value="package:com.android. " />
-        <option value="package:com.and " />
-        <option value="package:com.desaysv.bluetooth " />
-        <option value="package:com.desaysv.pas " />
-        <option value="package:p" />
-        <option value="pac" />
       </list>
     </option>
   </component>
