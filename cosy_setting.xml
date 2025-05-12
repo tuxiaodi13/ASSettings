@@ -1,7 +1,13 @@
 <application>
   <component name="CosySettings">
+    <option name="chatModeSelected">
+      <map>
+        <entry key="D:/AndroidPrj/DS06A-GW" value="chat" />
+      </map>
+    </option>
     <option name="chatModelSelected">
       <map>
+        <entry key="D:/AndroidPrj/DS06A-GW-chat" value="default" />
         <entry key="chat" value="default" />
         <entry key="developer" value="default" />
       </map>
