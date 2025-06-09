@@ -103,6 +103,9 @@
       <shortcut-conflict owner="vim">
         <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIFNFTUlDT0xPTg==</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">c2hpZnQgcHJlc3NlZCBFTlRFUg==</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimSettings">
@@ -110,8 +113,8 @@
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <idea-undo enabled="true" />
       <was-automatically-subscribed-to-eap enabled="false" />
+      <first-ideavim-version value="2.21.0" />
     </notifications>
   </component>
 </application>
