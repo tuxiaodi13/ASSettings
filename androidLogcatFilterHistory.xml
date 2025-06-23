@@ -6,9 +6,11 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.gw.otaadapter" />
+    <option name="mostRecentlyUsed" value="package:com.desaysv.aircondition" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.desaysv.aircondition" />
+        <option value="tag=: InstallManager " />
         <option value="package:com.faa.gwm.appstore" />
         <option value="05 75 17 | 73 50" />
         <option value="75 17 | 73 50" />
@@ -27,8 +29,6 @@
         <option value="BtActivity" />
         <option value="mConnectedDeviceInfoList" />
         <option value="package:com." />
-        <option value=" Read: 01 51 16 02 " />
-        <option value="51 16" />
       </list>
     </option>
   </component>
