@@ -6,13 +6,15 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.android.engmode" />
+    <option name="mostRecentlyUsed" value="tag=: YZBAI" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=: YZBAI" />
+        <option value="tag=: Y" />
         <option value="package:com.android.engmode" />
+        <option value="package:mine " />
         <option value="package:com.desaysv.engmode" />
         <option value="package:com." />
-        <option value="package:mine " />
         <option value="package:com.desaysv.aircondition" />
         <option value="tag=: InstallManager " />
         <option value="package:com.faa.gwm.appstore" />
@@ -27,8 +29,6 @@
         <option value="package:" />
         <option value="pa" />
         <option value="BtPresenter" />
-        <option value="B" />
-        <option value="BtActivity" />
       </list>
     </option>
   </component>
