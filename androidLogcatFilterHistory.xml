@@ -6,9 +6,10 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag=: YZBAI" />
+    <option name="mostRecentlyUsed" value="tag=: NavBar" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=: NavBar" />
         <option value="tag=: YZBAI" />
         <option value="tag=: Y" />
         <option value="package:com.android.engmode" />
@@ -28,7 +29,6 @@
         <option value="73" />
         <option value="package:" />
         <option value="pa" />
-        <option value="BtPresenter" />
       </list>
     </option>
   </component>
