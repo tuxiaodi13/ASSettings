@@ -6,9 +6,12 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag=: NavBar" />
+    <option name="mostRecentlyUsed" value="tag=: ConfigActivity_Emode" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=: ConfigActivity_Emode" />
+        <option value="tag=: " />
+        <option value="package: com.desaysv.ivi.vds.upgrade" />
         <option value="tag=: NavBar" />
         <option value="tag=: YZBAI" />
         <option value="tag=: Y" />
@@ -26,9 +29,6 @@
         <option value="75 17 | 73 50  " />
         <option value="75 17 | 73 50 " />
         <option value="75" />
-        <option value="73" />
-        <option value="package:" />
-        <option value="pa" />
       </list>
     </option>
   </component>
