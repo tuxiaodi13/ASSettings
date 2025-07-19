@@ -6,11 +6,18 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.abupdate.updateengine " />
+    <option name="mostRecentlyUsed" value="message:update_agent" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.abupdate.updateengine " />
+        <option value="message:update_agent" />
+        <option value="package:" />
+        <option value="package:avc:  denied" />
+        <option value="message:avc:  denied" />
+        <option value="me" />
+        <option value="package:update_engine" />
+        <option value="package:u" />
         <option value="package:mine " />
+        <option value="package:com.abupdate.updateengine " />
         <option value="package:com.abupdate.updateengine" />
         <option value="tag=: ConfigActivity_Emode" />
         <option value="package: system_server" />
@@ -22,13 +29,6 @@
         <option value="tag=: " />
         <option value="package: com.desaysv.ivi.vds.upgrade" />
         <option value="tag=: NavBar" />
-        <option value="tag=: YZBAI" />
-        <option value="tag=: Y" />
-        <option value="package:com.android.engmode" />
-        <option value="package:com.desaysv.engmode" />
-        <option value="package:com." />
-        <option value="package:com.desaysv.aircondition" />
-        <option value="tag=: InstallManager " />
       </list>
     </option>
   </component>

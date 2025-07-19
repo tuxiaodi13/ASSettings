@@ -2,6 +2,7 @@
   <component name="CosySettings">
     <option name="chatModelSelected">
       <map>
+        <entry key="D:/AndroidPrj/DS06A-GW-chat" value="default" />
         <entry key="D:/AndroidPrj/g6sa-gw-bean-chat" value="default" />
         <entry key="D:/AndroidPrj/gac-common-app-chat" value="default" />
         <entry key="chat" value="default" />
@@ -543,6 +544,25 @@
                   <list>
                     <ChatInputElement>
                       <option name="text" value="在androidStudio log过滤框中  过滤 75 17 和 73 50" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+            </list>
+          </value>
+        </entry>
+        <entry key="DS06A-GW|1359939063718622|AiAssistantAgent">
+          <value>
+            <list>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value=" java.util.NoSuchElementException&#10;                                                                  &#9;at android.os.HwBinder.getService(Native Method)&#10;                                                                  &#9;at android.os.HwBinder.getService(HwBinder.java:81)&#10;                                                                  &#9;at android.hardware.update_agent.V1_0.IUpdateAgent.getService(IUpdateAgent.java:74)&#10;" />
                       <option name="type" value="text" />
                     </ChatInputElement>
                   </list>
