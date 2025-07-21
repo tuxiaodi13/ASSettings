@@ -6,13 +6,16 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message:update_agent" />
+    <option name="mostRecentlyUsed" value="level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error" />
+        <option value="level:e" />
+        <option value="le" />
+        <option value="message:avc:  denied" />
         <option value="message:update_agent" />
         <option value="package:" />
         <option value="package:avc:  denied" />
-        <option value="message:avc:  denied" />
         <option value="me" />
         <option value="package:update_engine" />
         <option value="package:u" />
@@ -26,9 +29,6 @@
         <option value="tag:=InputTransport" />
         <option value="package: com.desaysv.launcher" />
         <option value="tag:= " />
-        <option value="tag=: " />
-        <option value="package: com.desaysv.ivi.vds.upgrade" />
-        <option value="tag=: NavBar" />
       </list>
     </option>
   </component>
