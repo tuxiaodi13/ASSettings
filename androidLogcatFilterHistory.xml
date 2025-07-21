@@ -6,14 +6,16 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.gw.otaadapter" />
+    <option name="mostRecentlyUsed" value="package:update_agent" />
     <option name="nonFavorites">
       <list>
+        <option value="message:avc:  denied" />
+        <option value="package:update_agent" />
+        <option value="package:update_a" />
         <option value="message:update_agent" />
         <option value="level:error" />
         <option value="level:e" />
         <option value="le" />
-        <option value="message:avc:  denied" />
         <option value="package:" />
         <option value="package:avc:  denied" />
         <option value="me" />
@@ -27,8 +29,6 @@
         <option value="tag: InputTransport" />
         <option value="tag:= InputTransport" />
         <option value="tag:=InputTransport" />
-        <option value="package: com.desaysv.launcher" />
-        <option value="tag:= " />
       </list>
     </option>
   </component>
