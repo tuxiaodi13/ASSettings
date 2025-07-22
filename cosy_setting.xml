@@ -928,6 +928,32 @@
                   <list />
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="type=1400 audit(0.0:189): avc: denied { dac_read_search } for capability=2 scontext=u:r:hal_update_agent:s0 tcontext=u:r:hal_update_agent:s0 tclass=capability permissive=0&#10;" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="libsepol.report_failure: neverallow on line 354 of system/sepolicy/private/domain.te (or line 40815 of policy.conf) violated by allow hal_update_agent hal_update_agent:capability { dac_read_search };  报错" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
