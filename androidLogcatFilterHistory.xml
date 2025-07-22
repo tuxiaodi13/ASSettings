@@ -6,9 +6,11 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:update_agent" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="nmea" />
+        <option value="nme" />
         <option value="package:update_agent" />
         <option value="message:avc:  denied" />
         <option value="package:update_a" />
@@ -27,8 +29,6 @@
         <option value="tag=: ConfigActivity_Emode" />
         <option value="package: system_server" />
         <option value="tag: InputTransport" />
-        <option value="tag:= InputTransport" />
-        <option value="tag:=InputTransport" />
       </list>
     </option>
   </component>
