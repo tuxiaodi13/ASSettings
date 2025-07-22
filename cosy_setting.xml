@@ -915,6 +915,19 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="type=1400 audit(0.0:187): avc: denied { dac_read_search } for capability=2 scontext=u:r:hal_update_agent:s0 tcontext=u:r:hal_update_agent:s0 tclass=capability permissive=0&#10;怎么解决" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
