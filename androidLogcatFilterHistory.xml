@@ -9,8 +9,8 @@
     <option name="mostRecentlyUsed" value="package:update_agent" />
     <option name="nonFavorites">
       <list>
-        <option value="message:avc:  denied" />
         <option value="package:update_agent" />
+        <option value="message:avc:  denied" />
         <option value="package:update_a" />
         <option value="message:update_agent" />
         <option value="level:error" />
