@@ -2,7 +2,7 @@
   <component name="CosySettings">
     <option name="chatModelSelected">
       <map>
-        <entry key="D:/AndroidPrj/DS06A-GW-chat" value="default" />
+        <entry key="D:/AndroidPrj/DS06A-GW-chat" value="dashscope_qwen3_coder_default" />
         <entry key="D:/AndroidPrj/g6sa-gw-bean-chat" value="default" />
         <entry key="D:/AndroidPrj/gac-common-app-chat" value="default" />
         <entry key="chat" value="default" />
