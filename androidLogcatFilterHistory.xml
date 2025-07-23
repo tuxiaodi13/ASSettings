@@ -6,9 +6,12 @@
         <option value="05 75 17 | 0E 73 50" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:updateagent" />
     <option name="nonFavorites">
       <list>
+        <option value="package:updateagent" />
+        <option value="level:error " />
+        <option value="level:e" />
         <option value="nmea" />
         <option value="nme" />
         <option value="package:update_agent" />
@@ -16,7 +19,6 @@
         <option value="package:update_a" />
         <option value="message:update_agent" />
         <option value="level:error" />
-        <option value="level:e" />
         <option value="le" />
         <option value="package:" />
         <option value="package:avc:  denied" />
@@ -27,8 +29,6 @@
         <option value="package:com.abupdate.updateengine " />
         <option value="package:com.abupdate.updateengine" />
         <option value="tag=: ConfigActivity_Emode" />
-        <option value="package: system_server" />
-        <option value="tag: InputTransport" />
       </list>
     </option>
   </component>

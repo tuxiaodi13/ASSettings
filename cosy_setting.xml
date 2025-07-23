@@ -1327,6 +1327,19 @@
                   </list>
                 </option>
               </ChatRecentQuery>
+              <ChatRecentQuery>
+                <option name="chatInputElements">
+                  <list>
+                    <ChatInputElement>
+                      <option name="text" value="type=1400 audit(0.0:311): avc: denied { read } for name=&quot;u:object_r:hwservicemanager_prop:s0&quot; dev=&quot;tmpfs&quot; ino=188 scontext=u:r:hal_updateagent:s0 tcontext=u:object_r:hwservicemanager_prop:s0 tclass=file permissive=0&#10;怎么解决" />
+                      <option name="type" value="text" />
+                    </ChatInputElement>
+                  </list>
+                </option>
+                <option name="contextTags">
+                  <list />
+                </option>
+              </ChatRecentQuery>
             </list>
           </value>
         </entry>
